@@ -265,10 +265,20 @@
       closeSidebarButton.addEventListener('click', closeSidebar);
       offCanvasBackdrop.addEventListener('click', closeSidebar); // Close sidebar when clicking on the backdrop
     });
+    function getParm(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var r = window.location.search.substr(1).match(reg);
+            if (r !== null) return unescape(r[2]);
+            return "none";
+        }
 
+        bookmarkJson = "json/pintree.json"
+        if (getParm("bookmark") != "none") {
+            bookmarkJson = getParm("bookmark")
+        }
     // Search functionality
     function searchBookmarks(query) {
-      fetch('json/pintree.json')
+      fetch(bookmarkJson)
         .then(response => response.json())
         .then(data => {
           const results = searchInData(data, query.toLowerCase());
@@ -300,7 +310,7 @@
 
     // Clear search results and reset UI
     function clearSearchResults() {
-      fetch('json/pintree.json')
+      fetch(bookmarkJson)
         .then(response => response.json())
         .then(data => {
           const secondLayer = data[0].children;
@@ -315,7 +325,7 @@
     document.getElementById('clearSearchButton').addEventListener('click', clearSearchResults);
 
     function searchBookmarks(query) {
-      fetch('json/pintree.json')
+      fetch(bookmarkJson)
         .then(response => response.json())
         .then(data => {
           const results = searchInData(data, query.toLowerCase());
@@ -598,7 +608,7 @@
     }
 
     // Fetch and render data
-    fetch('json/pintree.json')
+    fetch(bookmarkJson)
       .then(response => response.json())
       .then(data => {
         // Use the first layer of the data directly
@@ -661,7 +671,7 @@
 
     document.addEventListener('DOMContentLoaded', () => {
       // Fetch and render data
-      fetch('json/pintree.json')
+      fetch(bookmarkJson)
         .then(response => response.json())
         .then(data => {
           // Hide loading spinner

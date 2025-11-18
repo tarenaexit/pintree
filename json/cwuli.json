@@ -1,0 +1,882 @@
+[
+  {
+    "id": 2,"children":[],
+    "type": "folder",
+    "title": "初中",
+    "rank": 0,
+    "icon": "",
+    "children": [
+      {
+        "id": 12,"children":[],
+        "type": "folder",
+        "title": "新人教版",
+        "rank": 1,
+        "icon": "",
+        "children": [
+          {
+            "id": 182,"children":[],
+            "type": "folder",
+            "title": "八年级上",
+            "rank": 1,
+            "icon": "https://imgcdn.nobook.com/img/20240920/2024092066ed30089aaca.png",
+            "children": [
+              {
+                "id": 845,"children":[],
+                "type": "folder",
+                "title": "第一章 机械运动",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 3847,"children":[{"type": "link","title": "用刻度尺测量长度","lastModified":1753258623,"icon":"https://imgcdn.nobook.com/phy/20210917/201902225c6f604e2d8aa.jpg","url":"https://u.nobook.com/short-link/aab1q3kq"},{"type": "link","title": "用秒表测量时间","lastModified":1706186545,"icon":"https://imgcdn.nobook.com/phy/20210917/1504141433615.jpg","url":"https://u.nobook.com/short-link/1tx5xv48"}],
+                    "type": "folder",
+                    "title": "第1节 长度和时间的测量",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3848,"children":[],
+                    "type": "folder",
+                    "title": "第2节 运动的描述",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3849,"children":[],
+                    "type": "folder",
+                    "title": "第3节 运动的快慢",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3850,"children":[{"type": "link","title": "测量小车运动的速度","lastModified":1724035357,"icon":"https://imgcdn.nobook.com/phy/20210917/2021012760110d5970075.jpg","url":"https://u.nobook.com/short-link/mfh9coh6"},{"type": "link","title": "用DIS研究变速直线运动","lastModified":1724306618,"icon":"https://imgcdn.nobook.com/phy/20210917/201909065d71c03cd5b03.jpg","url":"https://wl.nobook.com/console/templates/resource/2424_5e2f29d0-d049-11e9-a4c2-fda7afcf2f58"}],
+                    "type": "folder",
+                    "title": "第4节 速度的测量",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 846,"children":[],
+                "type": "folder",
+                "title": "第二章 声现象",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 3851,"children":[{"type": "link","title": "振动的音叉激起水波","lastModified":1706187968,"icon":"https://imgcdn.nobook.com/phy/20210917/1501049219531.jpg","url":"https://u.nobook.com/short-link/pz2myasv"},{"type": "link","title": "振动发声","lastModified":1706187974,"icon":"https://imgcdn.nobook.com/phy/20210917/148283321412760.jpg","url":"https://u.nobook.com/short-link/treg2i3i"},{"type": "link","title": "研究声音的传播","lastModified":1724036179,"icon":"https://imgcdn.nobook.com/phy/20210917/148283342774364.jpg","url":"https://u.nobook.com/short-link/j3gyjrpj"}],
+                    "type": "folder",
+                    "title": "第1节 声音的产生和传播",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3852,"children":[{"type": "link","title": "探究尺子的音调","lastModified":1688373337,"icon":"https://imgcdn.nobook.com/phy/20210917/148288798282655.jpg","url":"https://u.nobook.com/short-link/o1jrqr9k"},{"type": "link","title": "决定响度的因素","lastModified":1724036269,"icon":"https://imgcdn.nobook.com/phy/20210917/148288807673334.jpg","url":"https://u.nobook.com/short-link/mwqikjc2"},{"type": "link","title": "观察声音的波形","lastModified":1724036233,"icon":"https://imgcdn.nobook.com/phy/20210917/148288816639103.jpg","url":"https://wl.nobook.com/console/templates/resource/222_1a773e7fd79797de338640559579d574"},{"type": "link","title": "演奏水瓶琴","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/148288821553455.jpg","url":"https://u.nobook.com/short-link/an3ynnbx"},{"type": "link","title": "比较不同乐器发出声音的波形","lastModified":1724036306,"icon":"https://imgcdn.nobook.com/phy/20210917/148288831825581.jpg","url":"https://u.nobook.com/short-link/x78to71e"}],
+                    "type": "folder",
+                    "title": "第2节 声音的特性",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3853,"children":[{"type": "link","title": "声音能否传递能量","lastModified":1724036333,"icon":"https://imgcdn.nobook.com/phy/20210917/148288792529611.jpg","url":"https://u.nobook.com/short-link/972gcdlt"}],
+                    "type": "folder",
+                    "title": "第3节 声的利用",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3854,"children":[{"type": "link","title": "观察噪声的波形","lastModified":1724036376,"icon":"https://imgcdn.nobook.com/phy/20210917/148288835245214.jpg","url":"https://u.nobook.com/short-link/3qntu7qs"}],
+                    "type": "folder",
+                    "title": "第4节 噪声的危害和控制",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3855,"children":[],
+                    "type": "folder",
+                    "title": "第5节 跨学科实践：制作隔音房间模型",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 847,"children":[],
+                "type": "folder",
+                "title": "第三章 物态变化",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 3856,"children":[{"type": "link","title": "用温度计测量水的温度","lastModified":1724035323,"icon":"https://imgcdn.nobook.com/phy/20210917/201907025d1b2dd4d193d.jpg","url":"https://u.nobook.com/short-link/ohu733hb"}],
+                    "type": "folder",
+                    "title": "第1节 温度",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3857,"children":[{"type": "link","title": "研究固体熔化时温度的变化规律","lastModified":1724036418,"icon":"https://imgcdn.nobook.com/img/20211213/2021121361b701c2f0682.png","url":"https://u.nobook.com/short-link/p4swrhhs"},{"type": "link","title": "用DIS研究晶体熔化","lastModified":1706186319,"icon":"https://imgcdn.nobook.com/phy/20210917/201909065d71d0b538b7b.jpg","url":"https://wl.nobook.com/console/templates/resource/2440_dc04c080-d054-11e9-a4c2-fda7afcf2f58"}],
+                    "type": "folder",
+                    "title": "第2节 熔化和凝固",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3858,"children":[{"type": "link","title": "探究水在沸腾前后温度变化的特点","lastModified":1724035388,"icon":"https://imgcdn.nobook.com/img/20211018/20211018616d222d2562f.jpg","url":"https://u.nobook.com/short-link/u1rgtkfz"}],
+                    "type": "folder",
+                    "title": "第3节 汽化和液化",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3859,"children":[{"type": "link","title": "碘的升华和凝华","lastModified":1706186391,"icon":"https://imgcdn.nobook.com/phy/20210917/148290184224931.jpg","url":"https://u.nobook.com/short-link/ttilgsz9"},{"type": "link","title": "碘的升华和凝华（水浴法）","lastModified":1706186290,"icon":"https://imgcdn.nobook.com/img/20220906/202209066316f29d152b1.png","url":"https://u.nobook.com/short-link/qew43qe2"}],
+                    "type": "folder",
+                    "title": "第4节 升华和凝华",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 848,"children":[],
+                "type": "folder",
+                "title": "第四章 光现象",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 3860,"children":[{"type": "link","title": "光在水和玻璃中的传播","lastModified":1724036464,"icon":"https://imgcdn.nobook.com/phy/20210917/148288853138282.jpg","url":"https://u.nobook.com/short-link/n6qvifmt"},{"type": "link","title": "小孔成像","lastModified":1680249245,"icon":"https://imgcdn.nobook.com/img/20220622/2022062262b292d914a13.png","url":"https://u.nobook.com/short-link/12ghfbl6"}],
+                    "type": "folder",
+                    "title": "第1节 光的直线传播",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3861,"children":[{"type": "link","title": "探究光的反射定律","lastModified":1724035475,"icon":"https://imgcdn.nobook.com/phy/20210917/148289098445446.jpg","url":"https://u.nobook.com/short-link/52o97f6j"},{"type": "link","title": "演示镜面反射","lastModified":1706188071,"icon":"https://imgcdn.nobook.com/phy/20210917/148289108534437.jpg","url":"https://u.nobook.com/short-link/x7sgsh2r"},{"type": "link","title": "演示漫反射","lastModified":1698289720,"icon":"https://imgcdn.nobook.com/phy/20210917/148758152985400.jpg","url":"https://u.nobook.com/short-link/3jklmbwr"},{"type": "link","title": "自行车尾灯光路图","lastModified":1706188243,"icon":"https://imgcdn.nobook.com/phy/20210917/148773333852714.jpg","url":"https://u.nobook.com/short-link/gw6f8whh"},{"type": "link","title": "潜望镜的构造与原理","lastModified":1706188189,"icon":"https://imgcdn.nobook.com/phy/20210917/14828919465922.jpg","url":"https://wl.nobook.com/console/templates/resource/202_8cb131cd892acd2ed2bf142ba0f8a36d"}],
+                    "type": "folder",
+                    "title": "第2节 光的反射",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3862,"children":[{"type": "link","title": "探究平面镜成像的特点","lastModified":1724406776,"icon":"https://imgcdn.nobook.com/img/20220120/2022012061e9127abe0b5.png","url":"https://wl.nobook.com/console/templates/resource/2719_ggaaaz-ckymnoyvo000038an57xuuxbp"},{"type": "link","title": "3d平面镜成像","lastModified":1706191274,"icon":"https://imgcdn.nobook.com/img/20221124/20221124637ed6f85ce7b.png","url":"https://wl.nobook.com/guidance/15640560456"}],
+                    "type": "folder",
+                    "title": "第3节 平面镜成像",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3863,"children":[{"type": "link","title": "光的偏折","lastModified":1706188078,"icon":"https://imgcdn.nobook.com/phy/20210917/1500015222520.jpg","url":"https://u.nobook.com/short-link/ps2vfwbp"},{"type": "link","title": "研究光的折射现象","lastModified":1724036495,"icon":"https://imgcdn.nobook.com/phy/20210917/148922124682084.jpg","url":"https://u.nobook.com/short-link/bfeoxa4s"},{"type": "link","title": "观察筷子的折射","lastModified":1706188152,"icon":"https://imgcdn.nobook.com/phy/20210917/148289180156877.jpg","url":"https://u.nobook.com/short-link/pyqjfqq9"},{"type": "link","title": "光在不均匀介质中的传播","lastModified":1706188165,"icon":"https://imgcdn.nobook.com/phy/20210917/148599928727019.jpg","url":"https://wl.nobook.com/console/templates/resource/204_159fc72f9df7fa6b55de51480b5ec036"}],
+                    "type": "folder",
+                    "title": "第4节 光的折射",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3864,"children":[{"type": "link","title": "观察透明物体的颜色","lastModified":1731380699,"icon":"https://imgcdn.nobook.com/img/20241112/202411126732c43248262.png","url":"https://wl.nobook.com/console/templates/resource/3516_c13bfd7b8e448577db61255cad7d7cac"},{"type": "link","title": "观察不透明物体的颜色","lastModified":1739157721,"icon":"https://imgcdn.nobook.com/img/20241112/202411126732c30a2d2cd.png","url":"https://wl.nobook.com/console/templates/resource/3515_315d330507d85d8989e59b48327d9e1b"},{"type": "link","title": "观察光的色散","lastModified":1724036536,"icon":"https://imgcdn.nobook.com/phy/20210917/148289144494109.jpg","url":"https://u.nobook.com/short-link/tyq74hkd"},{"type": "link","title": "光的三原色","lastModified":1706188127,"icon":"https://imgcdn.nobook.com/phy/20210917/148289150030038.jpg","url":"https://u.nobook.com/short-link/8quhalxy"},{"type": "link","title": "颜料的三基色","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/1509408944660.jpg","url":"https://wl.nobook.com/console/templates/resource/209_47b8a6f390bfd446fffa4083d4b36c56"}],
+                    "type": "folder",
+                    "title": "第5节 光的色散",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 849,"children":[],
+                "type": "folder",
+                "title": "第五章 透镜及其应用",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 3865,"children":[{"type": "link","title": "两种透镜对光的作用","lastModified":1724036668,"icon":"https://imgcdn.nobook.com/phy/20210917/148289172651881.jpg","url":"https://u.nobook.com/short-link/qixp9g8h"},{"type": "link","title": "演示聚光灯的原理","lastModified":1706188273,"icon":"https://imgcdn.nobook.com/phy/20210917/148289119972771.jpg","url":"https://u.nobook.com/short-link/kjjnpjix"}],
+                    "type": "folder",
+                    "title": "第1节 透镜",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3866,"children":[{"type": "link","title": "观察投影仪成像","lastModified":1724037138,"icon":"https://imgcdn.nobook.com/phy/20210917/1499332375558.jpg","url":"https://u.nobook.com/short-link/u7bk65b3"}],
+                    "type": "folder",
+                    "title": "第2节 生活中的透镜",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3867,"children":[{"type": "link","title": "探究凸透镜成像的规律","lastModified":1724232288,"icon":"https://imgcdn.nobook.com/phy/20210917/148289176989748.jpg","url":"https://u.nobook.com/short-link/5dkom8ap"}],
+                    "type": "folder",
+                    "title": "第3节 凸透镜成像的规律",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3868,"children":[{"type": "link","title": "眼睛成像原理","lastModified":1706188195,"icon":"https://imgcdn.nobook.com/phy/20210917/34a662a0-e0a3-11e7-ad5e-63dff5f9eac9.jpg","url":"https://u.nobook.com/short-link/bm3g7g8e"},{"type": "link","title": "近视眼的矫正","lastModified":1706188203,"icon":"https://imgcdn.nobook.com/phy/20210917/148758102129081.jpg","url":"https://u.nobook.com/short-link/4en2p3un"},{"type": "link","title": "远视眼的矫正","lastModified":1706188263,"icon":"https://imgcdn.nobook.com/phy/20210917/201911155dce15284a671.jpg","url":"https://u.nobook.com/short-link/v6uo2a31"}],
+                    "type": "folder",
+                    "title": "第4节 眼睛和眼镜",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3869,"children":[{"type": "link","title": "伽利略型和开普勒型望远镜","lastModified":1706188224,"icon":"https://imgcdn.nobook.com/img/20211018/20211018616d22056e0ad.jpg","url":"https://u.nobook.com/short-link/929sowcx"},{"type": "link","title": "保罗棱镜结构望远镜","lastModified":1706188289,"icon":"https://imgcdn.nobook.com/phy/20210917/148772843061417.jpg","url":"https://u.nobook.com/short-link/t7x25wwz"}],
+                    "type": "folder",
+                    "title": "第5节 制作望远镜",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 850,"children":[],
+                "type": "folder",
+                "title": "第六章 质量与密度",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 3870,"children":[{"type": "link","title": "用托盘天平测量物体的质量","lastModified":1724036042,"icon":"https://imgcdn.nobook.com/phy/20210917/148290561431282.jpg","url":"https://u.nobook.com/short-link/p48dxyar"}],
+                    "type": "folder",
+                    "title": "第1节 质量",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3871,"children":[{"type": "link","title": "探究物质的质量与体积的关系","lastModified":1724036083,"icon":"https://imgcdn.nobook.com/phy/20210917/201909245d89bada20634.jpg","url":"https://u.nobook.com/short-link/xchuybpl"}],
+                    "type": "folder",
+                    "title": "第2节 密度",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3872,"children":[{"type": "link","title": "烧杯、量筒的使用","lastModified":1706186707,"icon":"https://imgcdn.nobook.com/phy/20210917/148291818640516.jpg","url":"https://u.nobook.com/short-link/m1qmfcrd"},{"type": "link","title": "测量盐水的密度","lastModified":1719546468,"icon":"https://imgcdn.nobook.com/phy/20210917/1499390251968.jpg","url":"https://u.nobook.com/short-link/l84vuyb2"},{"type": "link","title": "测量小石块的密度","lastModified":1720440292,"icon":"https://imgcdn.nobook.com/phy/20210917/1482918061966.jpg","url":"https://u.nobook.com/short-link/or8c543d"}],
+                    "type": "folder",
+                    "title": "第3节 测量液体和固体的密度",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 3873,"children":[],
+                    "type": "folder",
+                    "title": "第4节 密度的应用",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 189,"children":[],
+            "type": "folder",
+            "title": "八年级下",
+            "rank": 2,
+            "icon": "https://imgcdn.nobook.com/img/20250206/2025020667a479d95f1e8.png",
+            "children": [
+              {
+                "id": 888,"children":[],
+                "type": "folder",
+                "title": "第七章 力",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4026,"children":[],
+                    "type": "folder",
+                    "title": "第1节 力",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4027,"children":[{"type": "link","title": "弹簧伸长量和拉力的关系","lastModified":1706187105,"icon":"https://imgcdn.nobook.com/phy/20210917/148359947015658.jpg","url":"https://u.nobook.com/short-link/hn1mxmxs"},{"type": "link","title": "练习使用弹簧测力计","lastModified":1738833784,"icon":"https://imgcdn.nobook.com/phy/20210917/14835946218104.jpg","url":"https://wl.nobook.com/console/templates/resource/156_5c756fb10952d2f581676cf6c76ce8f8"},{"type": "link","title": "演示玻璃瓶的微小形变","lastModified":1706186621,"icon":"https://imgcdn.nobook.com/phy/20210917/1509408944671.jpg","url":"https://u.nobook.com/short-link/7xzsnxjg"},{"type": "link","title": "探究弹性形变与外力的关系","lastModified":1706187273,"icon":"https://imgcdn.nobook.com/phy/20210917/5a706200500c5613c8597b98.jpg","url":"https://wl.nobook.com/console/templates/resource/62_e8a9417883c065aacb562c833bed3b24"}],
+                    "type": "folder",
+                    "title": "第2节 弹力",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4028,"children":[{"type": "link","title": "探究重力的大小跟质量的关系","lastModified":1738833848,"icon":"https://imgcdn.nobook.com/phy/20210917/201902185c6a1d623237f.jpg","url":"https://u.nobook.com/short-link/a1tqwtzh"},{"type": "link","title": "重力的大小跟质量的关系","lastModified":1738833873,"icon":"https://imgcdn.nobook.com/phy/20210917/148359548218007.jpg","url":"https://u.nobook.com/short-link/r878gqdq"},{"type": "link","title": "重力方向演示","lastModified":1706186877,"icon":"https://imgcdn.nobook.com/phy/20210917/f553e190-df12-11e7-bceb-cfc148555afd.jpg","url":"https://u.nobook.com/short-link/e7x532h1"},{"type": "link","title": "不规则物体的重心","lastModified":1706187656,"icon":"https://imgcdn.nobook.com/phy/20210917/148401211093780.jpg","url":"https://wl.nobook.com/console/templates/resource/113_75dbdfacd077a0e9c5692ce5263a3edc"}],
+                    "type": "folder",
+                    "title": "第3节 重力",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 889,"children":[],
+                "type": "folder",
+                "title": "第八章 运动和力",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4029,"children":[{"type": "link","title": "阻力对物体运动的影响","lastModified":1738834094,"icon":"https://imgcdn.nobook.com/phy/20210917/148359500899389.jpg","url":"https://wl.nobook.com/console/templates/resource/153_95a32bb90f5cea3a6601bde0ab44dc40"},{"type": "link","title": "伽利略理想斜面实验","lastModified":1706192939,"icon":"https://imgcdn.nobook.com/phy/20210917/202001105e17e0d517bbb.jpg","url":"https://wl.nobook.com/console/templates/resource/109_04900fdf75421f71b111b23554d11b69"},{"type": "link","title": "演示惯性","lastModified":1706187152,"icon":"https://imgcdn.nobook.com/phy/20210917/202101125ffd17a4701df.jpg","url":"https://u.nobook.com/short-link/larh1eyw"},{"type": "link","title": "惯性小车","lastModified":1706187136,"icon":"https://imgcdn.nobook.com/phy/20210917/1501553370284.jpg","url":"https://wl.nobook.com/console/templates/resource/149_c2fbfda9d6741ca9d6c887a5bbc7ecce"}],
+                    "type": "folder",
+                    "title": "第1节 牛顿第一定律",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4030,"children":[{"type": "link","title": "探究二力平衡的条件","lastModified":1706187118,"icon":"https://imgcdn.nobook.com/phy/20210917/1499390977985.jpg","url":"https://u.nobook.com/short-link/9biyfdlw"}],
+                    "type": "folder",
+                    "title": "第2节 二力平衡",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4031,"children":[{"type": "link","title": "测量滑动摩擦力","lastModified":1706186956,"icon":"https://imgcdn.nobook.com/phy/20210917/1499391569137.jpg","url":"https://wl.nobook.com/console/templates/resource/147_640e4c5eef4a4da345fa8f9ef2f962f8"},{"type": "link","title": "探究滑动摩擦力大小与哪些因素有关","lastModified":1738833920,"icon":"https://imgcdn.nobook.com/phy/20210917/1499392588703.jpg","url":"https://wl.nobook.com/console/templates/resource/146_81bcf42f3eaae5bf58460ce8758176b8"},{"type": "link","title": "测量滑动摩擦力（二）","lastModified":1706186988,"icon":"https://imgcdn.nobook.com/phy/20210917/202010305f9bde8ed6ed6.jpg","url":"https://u.nobook.com/short-link/k5ok5p5j"},{"type": "link","title": "测量滑动摩擦力（三）","lastModified":1706186993,"icon":"https://imgcdn.nobook.com/phy/20210917/202010305f9baff088434.jpg","url":"https://u.nobook.com/short-link/yxmf2m2t"},{"type": "link","title": "滑动摩擦力与滚动摩擦力的比较","lastModified":1706187145,"icon":"https://imgcdn.nobook.com/phy/20210917/1509408944666.jpg","url":"https://wl.nobook.com/console/templates/resource/144_a1541044c20588232f79c131592ad68b"}],
+                    "type": "folder",
+                    "title": "第3节 摩擦力",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4032,"children":[],
+                    "type": "folder",
+                    "title": "第4节 同一直线上二力的合成",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 890,"children":[],
+                "type": "folder",
+                "title": "第九章 压强",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4033,"children":[{"type": "link","title": "压力和受力面积对海绵形变的影响","lastModified":1738834150,"icon":"https://imgcdn.nobook.com/phy/20210917/148597928727015.jpg","url":"https://wl.nobook.com/console/templates/resource/142_e85643d6ea8001cc6276e7f3218aebb4"},{"type": "link","title": "规则柱体压强","lastModified":1680247330,"icon":"https://imgcdn.nobook.com/img/20230327/20230327642151833930e.png","url":"https://wl.nobook.com/console/templates/resource/3203_dfb7a5e773dc533def3852a138df5f9c"},{"type": "link","title": "固体压强叠加问题","lastModified":1680247338,"icon":"https://imgcdn.nobook.com/img/20230327/2023032764214ffa31b0d.png","url":"https://wl.nobook.com/console/templates/resource/3202_cae22ecc0b39a6c6beaa51429c202bcc"},{"type": "link","title": "压力相同的物体-水平切割","lastModified":1680084218,"icon":"https://imgcdn.nobook.com/img/20230327/2023032764215b96c8900.png","url":"https://wl.nobook.com/console/templates/resource/3205_680a03a816ab648b0229318054228f01"},{"type": "link","title": "压强相同的物体-水平切割","lastModified":1680231709,"icon":"https://imgcdn.nobook.com/img/20230327/20230327642159addc514.png","url":"https://wl.nobook.com/console/templates/resource/3204_7b34abb3d5f5e9d12e1108a2eb2c50d6"}],
+                    "type": "folder",
+                    "title": "第1节 压强",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4034,"children":[{"type": "link","title": "液体压强演示","lastModified":1706187386,"icon":"https://imgcdn.nobook.com/phy/20210917/201902195c6b974672c5d.jpg","url":"https://wl.nobook.com/console/templates/resource/1866_ff2382d0-3348-11e9-9bcd-fd6afe6dc467"},{"type": "link","title": "探究液体压强与哪些因素有关","lastModified":1738833951,"icon":"https://imgcdn.nobook.com/phy/20210917/14836000842686.jpg","url":"https://wl.nobook.com/console/templates/resource/141_1ef2633c3b67068da4063614ce078a28"},{"type": "link","title": "形杯问题1-同液等高","lastModified":1683547510,"icon":"https://imgcdn.nobook.com/img/20230504/202305046453838f1dbf1.jpg","url":"https://wl.nobook.com/console/templates/resource/3250_e91ffec963c7e8de3db982c3c82274ab"},{"type": "link","title": "形杯问题2-异液等高","lastModified":1683547502,"icon":"https://imgcdn.nobook.com/img/20230504/20230504645383ae2f86a.jpg","url":"https://wl.nobook.com/console/templates/resource/3251_f566ada760f2bfeca9b2ee9fa736d5b3"},{"type": "link","title": "形杯问题3-同液等质","lastModified":1683547494,"icon":"https://imgcdn.nobook.com/img/20230504/20230504645383bce71f7.jpg","url":"https://wl.nobook.com/console/templates/resource/3252_d078351576692074a8fc3809b1f34363"},{"type": "link","title": "形杯问题4-异液等质","lastModified":1683548772,"icon":"https://imgcdn.nobook.com/img/20230504/20230504645383d597ff8.png","url":"https://wl.nobook.com/console/templates/resource/3253_03adc535038ce2fbece3edd2bdd3db4d"}],
+                    "type": "folder",
+                    "title": "第2节 液体的压强",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4035,"children":[{"type": "link","title": "大气压的测量","lastModified":1738834183,"icon":"https://imgcdn.nobook.com/phy/20210917/148360012211860.jpg","url":"https://wl.nobook.com/console/templates/resource/139_1d42e4a952874ec7f9c068aa0234fab4"}],
+                    "type": "folder",
+                    "title": "第3节 大气压强",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4036,"children":[{"type": "link","title": "活塞式抽水机","lastModified":1706187437,"icon":"https://imgcdn.nobook.com/phy/20210917/1499408944666.jpg","url":"https://u.nobook.com/short-link/nytnsguq"}],
+                    "type": "folder",
+                    "title": "第4节 跨学科实践：制作简易活塞式抽水机",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4037,"children":[{"type": "link","title": "纸的运动","lastModified":1738834672,"icon":"https://imgcdn.nobook.com/phy/20210917/148360014937765.jpg","url":"https://wl.nobook.com/console/templates/resource/137_5bf72eedab73e35a8a437280c334b73a"},{"type": "link","title": "机翼原理","lastModified":1706187415,"icon":"https://imgcdn.nobook.com/phy/20210917/201812255c2198cfe72f8.jpg","url":"https://u.nobook.com/short-link/3li1fgh6"},{"type": "link","title": "漏斗吹乒乓球","lastModified":1706187442,"icon":"https://imgcdn.nobook.com/phy/20210917/a606b0c0-d591-11e7-a654-d7f858d86fed.jpg","url":"https://wl.nobook.com/console/templates/resource/136_6603dce0ce0f2f723ee7bc905d416f0c"}],
+                    "type": "folder",
+                    "title": "第5节 流体压强与流速的关系",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 891,"children":[],
+                "type": "folder",
+                "title": "第十章 浮力",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4038,"children":[{"type": "link","title": "测量浮力大小","lastModified":1722934864,"icon":"https://imgcdn.nobook.com/phy/20210917/202101125ffd31883bf57.jpg","url":"https://u.nobook.com/short-link/8r4kc8jk"},{"type": "link","title": "测量浸没在水中的铝块所受的浮力","lastModified":1738834226,"icon":"https://imgcdn.nobook.com/phy/20210917/201907105d257ebc0ecbb.jpg","url":"https://wl.nobook.com/console/templates/resource/2331_37878f10-a2d7-11e9-a4c2-fda7afcf2f58"},{"type": "link","title": "探究浮力的大小与哪些因素有关","lastModified":1738833982,"icon":"https://imgcdn.nobook.com/phy/20210917/1499409676987.jpg","url":"https://wl.nobook.com/console/templates/resource/133_f04e61d3a67d048e6fe557120d5ef55d"},{"type": "link","title": "浮力的原理","lastModified":1749630796,"icon":"https://imgcdn.nobook.com/phy/20210917/148597928727019.jpg","url":"https://u.nobook.com/short-link/966mwu6h"}],
+                    "type": "folder",
+                    "title": "第1节 浮力",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4039,"children":[{"type": "link","title": "探究浮力的大小与排开液体所受重力的关系","lastModified":1738834008,"icon":"https://imgcdn.nobook.com/phy/20210917/148360175811221.jpg","url":"https://wl.nobook.com/console/templates/resource/132_6152c0db22a16db3cb01d2b52be3cd68"}],
+                    "type": "folder",
+                    "title": "第2节 阿基米德原理",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4040,"children":[{"type": "link","title": "盐水浮鸡蛋","lastModified":1719546889,"icon":"https://imgcdn.nobook.com/phy/20210917/14836045298187.jpg","url":"https://u.nobook.com/short-link/wucy8t6c"},{"type": "link","title": "蜡块在液体中的沉浮","lastModified":1706187534,"icon":"https://imgcdn.nobook.com/phy/20210917/0d2811f0-d596-11e7-a654-d7f858d86fed.jpg","url":"https://wl.nobook.com/console/templates/resource/130_0f59c7709096723eaa5b9c4f3203868d"},{"type": "link","title": "潜水艇原理","lastModified":1706187528,"icon":"https://imgcdn.nobook.com/phy/20210917/148360458730224.jpg","url":"https://u.nobook.com/short-link/5tqpxz85"}],
+                    "type": "folder",
+                    "title": "第3节 物体的浮沉条件及应用",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4041,"children":[{"type": "link","title": "密度计的使用","lastModified":1706187540,"icon":"https://imgcdn.nobook.com/phy/20210917/1509408944658.jpg","url":"https://u.nobook.com/short-link/wsfzi1ld"}],
+                    "type": "folder",
+                    "title": "第4节 跨学科实践：制作微型密度计",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 892,"children":[],
+                "type": "folder",
+                "title": "第十一章 功和机械能",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4042,"children":[],
+                    "type": "folder",
+                    "title": "第1节 功",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4043,"children":[],
+                    "type": "folder",
+                    "title": "第2节 功率",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4044,"children":[{"type": "link","title": "研究物体的动能跟哪些因素有关","lastModified":1738834558,"icon":"https://imgcdn.nobook.com/phy/20210917/1499414464052.jpg","url":"https://wl.nobook.com/console/templates/resource/117_ab88c23716bd004312497bb60cb3f2de"}],
+                    "type": "folder",
+                    "title": "第3节 动能和势能",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4045,"children":[{"type": "link","title": "滚摆","lastModified":1706187721,"icon":"https://imgcdn.nobook.com/phy/20210917/148360487888995.jpg","url":"https://u.nobook.com/short-link/yqvb6az3"},{"type": "link","title": "单摆","lastModified":1706187734,"icon":"https://imgcdn.nobook.com/phy/20210917/148360491239833.jpg","url":"https://u.nobook.com/short-link/2yll4dnk"}],
+                    "type": "folder",
+                    "title": "第4节 机械能及其转化",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 893,"children":[],
+                "type": "folder",
+                "title": "第十二章 简单机械",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4046,"children":[{"type": "link","title": "探究杠杆的平衡条件","lastModified":1718593193,"icon":"https://imgcdn.nobook.com/phy/20210917/148360524968395.jpg","url":"https://u.nobook.com/short-link/99bzgn2a"}],
+                    "type": "folder",
+                    "title": "第1节 杠杆",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4047,"children":[],
+                    "type": "folder",
+                    "title": "第2节 跨学科实践：制作简易杆秤",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4048,"children":[{"type": "link","title": "研究定滑轮和动滑轮的特点","lastModified":1738834602,"icon":"https://imgcdn.nobook.com/phy/20210917/148360540025416.jpg","url":"https://wl.nobook.com/console/templates/resource/124_7ff3c94ea39060f2d523782f18e0e4dd"},{"type": "link","title": "不同滑轮的工作特点","lastModified":1706187328,"icon":"https://imgcdn.nobook.com/phy/20210917/201904125cb03481a6b2a.jpg","url":"https://wl.nobook.com/console/templates/resource/2104_c4b8ca00-5ced-11e9-82de-c3043e344277"},{"type": "link","title": "水平定滑轮的使用","lastModified":1706187560,"icon":"https://imgcdn.nobook.com/phy/20210917/201911075dc3d58c32f84.jpg","url":"https://u.nobook.com/short-link/2wc4eao5"},{"type": "link","title": "水平动滑轮的使用","lastModified":1706187580,"icon":"https://imgcdn.nobook.com/phy/20210917/201911075dc3d697686cc.jpg","url":"https://u.nobook.com/short-link/8oaziwjp"},{"type": "link","title": "滑轮组","lastModified":1706187321,"icon":"https://imgcdn.nobook.com/phy/20210917/202009155f607d059a1c1.jpg","url":"https://wl.nobook.com/console/templates/resource/2619_1ff11130-f72e-11ea-8f03-07bd172de15b"}],
+                    "type": "folder",
+                    "title": "第3节 滑轮",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4049,"children":[{"type": "link","title": "研究使用动滑轮是否省功","lastModified":1738834621,"icon":"https://imgcdn.nobook.com/phy/20210917/20210315604f2e07020dc.jpg","url":"https://wl.nobook.com/console/templates/resource/121_bd4c6298c35fff7c1b4b164b0d59938c"},{"type": "link","title": "测量滑轮组的机械效率","lastModified":1738834054,"icon":"https://imgcdn.nobook.com/phy/20210917/148360627024806.jpg","url":"https://wl.nobook.com/console/templates/resource/120_9cbceb9447a62b477589da7fd696ca1b"},{"type": "link","title": "测量斜面的机械效率","lastModified":1706187638,"icon":"https://imgcdn.nobook.com/phy/20210917/14836075021544.jpg","url":"https://u.nobook.com/short-link/a2fgum16"}],
+                    "type": "folder",
+                    "title": "第4节 机械效率",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 251,"children":[],
+            "type": "folder",
+            "title": "九年级全一册",
+            "rank": 3,
+            "icon": "https://imgcdn.nobook.com/img/20250715/20250715687639eb44005.png",
+            "children": [
+              {
+                "id": 1282,"children":[],
+                "type": "folder",
+                "title": "第十三章  内能",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4782,"children":[{"type": "link","title": "比较水和油比热容实验","lastModified":1680248272,"icon":"https://imgcdn.nobook.com/phy/20210917/201901105c36a059404ac.jpg","url":"https://u.nobook.com/short-link/jg8h84n4"},{"type": "link","title": "用DIS研究比热容","lastModified":1706186352,"icon":"https://imgcdn.nobook.com/phy/20210917/201909065d71cf91ad2cb.jpg","url":"https://wl.nobook.com/console/templates/resource/2439_5f3db2a0-d054-11e9-a4c2-fda7afcf2f58"}],
+                    "type": "folder",
+                    "title": "第1节 热量 比热容",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4783,"children":[{"type": "link","title": "二氧化氮气体扩散实验","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/148290187421031.jpg","url":"https://u.nobook.com/short-link/nmaytaji"},{"type": "link","title": "观察红墨水的扩散现象","lastModified":1680248266,"icon":"https://imgcdn.nobook.com/phy/20210917/148290310070593.jpg","url":"https://u.nobook.com/short-link/y3bs5pqm"},{"type": "link","title": "演示分子间引力实验","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/148290193297855.jpg","url":"https://u.nobook.com/short-link/bwvxar7f"},{"type": "link","title": "水和酒精的混合","lastModified":1655952140,"icon":"https://imgcdn.nobook.com/phy/20210917/1499408944667.jpg","url":"https://wl.nobook.com/console/templates/resource/168_9fec044c27b8b0caccc4b57bfaf0da2a"},{"type": "link","title": "观察液体混合后体积的变化","lastModified":1680254023,"icon":"https://imgcdn.nobook.com/phy/20210917/202007245f1a7b626e71b.jpg","url":"https://wl.nobook.com/console/templates/resource/2540_1bd51030-cd74-11ea-b171-d96e7cde76a3"}],
+                    "type": "folder",
+                    "title": "第2节 分子动理论的初步知识",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4784,"children":[{"type": "link","title": "演示压缩燃烧实验","lastModified":1748339493,"icon":"https://imgcdn.nobook.com/phy/20210917/148290196498316.jpg","url":"https://u.nobook.com/short-link/wdcnwkwk"},{"type": "link","title": "演示内能转化为动能的实验","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/148290221298929.jpg","url":"https://u.nobook.com/short-link/omuysami"},{"type": "link","title": "演示内能转化为动能的实验","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/148290221298929.jpg","url":"https://u.nobook.com/short-link/omuysami"}],
+                    "type": "folder",
+                    "title": "第3节 内能",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1283,"children":[],
+                "type": "folder",
+                "title": "第十四章  内能的利用",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4785,"children":[],
+                    "type": "folder",
+                    "title": "第1节 能量的转化与守恒",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4786,"children":[{"type": "link","title": "四冲程汽油机","lastModified":1701674558,"icon":"https://imgcdn.nobook.com/phy/20210917/148290226839325.jpg","url":"https://u.nobook.com/short-link/nd47bb35"}],
+                    "type": "folder",
+                    "title": "第2节 热机",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4787,"children":[],
+                    "type": "folder",
+                    "title": "第3节 热机的效率",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4788,"children":[],
+                    "type": "folder",
+                    "title": "第4节 跨学科实践：制作简易热机模型",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1284,"children":[],
+                "type": "folder",
+                "title": "第十五章  电流和电路",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4789,"children":[{"type": "link","title": "摩擦起电现象","lastModified":1672124880,"icon":"https://imgcdn.nobook.com/phy/20210917/148403377313306.jpg","url":"https://u.nobook.com/short-link/4nvp9co7"},{"type": "link","title": "带电物体吸引轻小物体","lastModified":1680248078,"icon":"https://imgcdn.nobook.com/phy/20210917/148289266758816.jpg","url":"https://u.nobook.com/short-link/ub395k1f"},{"type": "link","title": "电荷间的相互作用（一）","lastModified":1712562731,"icon":"https://imgcdn.nobook.com/phy/20210917/1509408944672.jpg","url":"https://u.nobook.com/short-link/kl7rvhy7"},{"type": "link","title": "验电器的使用","lastModified":1688373414,"icon":"https://imgcdn.nobook.com/phy/20210917/148289285145380.jpg","url":"https://u.nobook.com/short-link/wzsakwwq"},{"type": "link","title": "接触带电现象","lastModified":1672124898,"icon":"https://imgcdn.nobook.com/phy/20210917/148403383648464.jpg","url":"https://u.nobook.com/short-link/ye6ux4lu"},{"type": "link","title": "用起电机模拟闪电现象","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/1500016076206.jpg","url":"https://wl.nobook.com/console/templates/resource/288_877cebd5c503dac7c58910b2050425af"},{"type": "link","title": "静电感应","lastModified":1706194654,"icon":"https://imgcdn.nobook.com/phy/20210917/1499670619401.jpg","url":"https://wl.nobook.com/console/templates/resource/286_ee64533d84bc75651d2cdb5c7a59b89f"}],
+                    "type": "folder",
+                    "title": "第1节 两种电荷",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4790,"children":[{"type": "link","title": "演示电荷在金属棒中的定向移动","lastModified":1672124868,"icon":"https://imgcdn.nobook.com/phy/20210917/201903065c7f99a0cb603.jpg","url":"https://u.nobook.com/short-link/hz6mlg77"},{"type": "link","title": "练习连接电路","lastModified":1706190879,"icon":"https://imgcdn.nobook.com/phy/20210917/1499408944656.jpg","url":"https://u.nobook.com/short-link/i944je1y"},{"type": "link","title": "发光二极管","lastModified":1696735457,"icon":"https://imgcdn.nobook.com/phy/20210917/14842059551934.jpg","url":"https://u.nobook.com/short-link/etn19bg4"},{"type": "link","title": "利用发光二极管判断电流的方向","lastModified":1696747263,"icon":"https://imgcdn.nobook.com/phy/20210917/1499418194455.jpg","url":"https://u.nobook.com/short-link/49hhw2o6"},{"type": "link","title": "简单电路","lastModified":1696747540,"icon":"https://imgcdn.nobook.com/phy/20210917/147597928727015.jpg","url":"https://u.nobook.com/short-link/j1dseh6b"},{"type": "link","title": "简单电路-短路","lastModified":1696747513,"icon":"https://imgcdn.nobook.com/phy/20210917/147597931138533.jpg","url":"https://u.nobook.com/short-link/t21tnipp"},{"type": "link","title": "简单电路-断路","lastModified":1696747478,"icon":"https://imgcdn.nobook.com/phy/20210917/147598044520642.jpg","url":"https://u.nobook.com/short-link/azl7lenx"},{"type": "link","title": "电源短路","lastModified":1716809302,"icon":"https://imgcdn.nobook.com/phy/20210917/201903295c9dd069eeb73.jpg","url":"https://wl.nobook.com/console/templates/resource/2096_50426f10-4ee1-11e9-9bcd-fd6afe6dc467"}],
+                    "type": "folder",
+                    "title": "第2节 电流和电路",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4791,"children":[{"type": "link","title": "组装电路","lastModified":1696747745,"icon":"https://imgcdn.nobook.com/phy/20210917/201904125cb0367ee1350.jpg","url":"https://wl.nobook.com/console/templates/resource/2105_a4cc6ab0-5cef-11e9-82de-c3043e344277"},{"type": "link","title": "探究串联电路的特点","lastModified":1706191107,"icon":"https://imgcdn.nobook.com/phy/20210917/148283159431410.jpg","url":"https://u.nobook.com/short-link/qa1kpfzb"},{"type": "link","title": "探究并联电路的特点","lastModified":1706190900,"icon":"https://imgcdn.nobook.com/phy/20210917/14759830742857.jpg","url":"https://u.nobook.com/short-link/ljpkud3i"},{"type": "link","title": "传达室的前后门开关","lastModified":1719546567,"icon":"https://imgcdn.nobook.com/phy/20210917/148597928727036.jpg","url":"https://u.nobook.com/short-link/tubk95ud"},{"type": "link","title": "双掷开关的使用","lastModified":1688373269,"icon":"https://imgcdn.nobook.com/phy/20210917/bccd7950-d597-11e7-a654-d7f858d86fed.jpg","url":"https://u.nobook.com/short-link/msqnpsjl"},{"type": "link","title": "双控电灯","lastModified":1696747392,"icon":"https://imgcdn.nobook.com/phy/20210917/1499421660155.jpg","url":"https://wl.nobook.com/console/templates/resource/337_583a3b5ec7dbde144a5657891c8fe163"}],
+                    "type": "folder",
+                    "title": "第3节 串联电路和并联电路",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4792,"children":[{"type": "link","title": "练习使用电流表","lastModified":1706190909,"icon":"https://imgcdn.nobook.com/phy/20210917/147598358967162.jpg","url":"https://u.nobook.com/short-link/t4gszjbj"}],
+                    "type": "folder",
+                    "title": "第4节 电流的测量",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4793,"children":[{"type": "link","title": "探究串联电路中电流的特点","lastModified":1706190921,"icon":"https://imgcdn.nobook.com/phy/20210917/147598373498906.jpg","url":"https://u.nobook.com/short-link/sdgqe8xj"},{"type": "link","title": "探究并联电路中电流规律","lastModified":1720441391,"icon":"https://imgcdn.nobook.com/phy/20210917/147598399769866.jpg","url":"https://u.nobook.com/short-link/qmtto11b"},{"type": "link","title": "串联电路和并联电路的比较","lastModified":1716809386,"icon":"https://imgcdn.nobook.com/phy/20210917/201904125cb026f54c755.jpg","url":"https://wl.nobook.com/console/templates/resource/2101_6fa2e250-5ce6-11e9-82de-c3043e344277"},{"type": "link","title": "蜂鸣器和小电机","lastModified":1696746333,"icon":"https://imgcdn.nobook.com/phy/20210917/148281939092632.jpg","url":"https://u.nobook.com/short-link/22rpbkbk"}],
+                    "type": "folder",
+                    "title": "第5节 串、并联电路中电流的规律",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1285,"children":[],
+                "type": "folder",
+                "title": "第十六章  电压 电阻",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4794,"children":[{"type": "link","title": "练习使用电压表","lastModified":1706190929,"icon":"https://imgcdn.nobook.com/phy/20210917/147599651452102.jpg","url":"https://u.nobook.com/short-link/uuu49h4s"},{"type": "link","title": "用电压表测电池的电压","lastModified":1696748480,"icon":"https://imgcdn.nobook.com/phy/20210917/202009145f5f3c2be92bb.jpg","url":"https://wl.nobook.com/console/templates/resource/2614_e1adca40-f66e-11ea-8f03-07bd172de15b"}],
+                    "type": "folder",
+                    "title": "第1节 电压",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4795,"children":[{"type": "link","title": "探究串联电路电压的规律","lastModified":1720440985,"icon":"https://imgcdn.nobook.com/phy/20210917/147599674673812.jpg","url":"https://u.nobook.com/short-link/e8dcpklu"},{"type": "link","title": "探究并联电路电压的规律","lastModified":1716809394,"icon":"https://imgcdn.nobook.com/phy/20210917/147599692219734.jpg","url":"https://u.nobook.com/short-link/qgdn9omr"}],
+                    "type": "folder",
+                    "title": "第2节 串、并联电路中电压的规律",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4796,"children":[{"type": "link","title": "探究影响导体电阻大小的因素","lastModified":1706191140,"icon":"https://imgcdn.nobook.com/phy/20210917/147599729715383.jpg","url":"https://u.nobook.com/short-link/p18tgeqc"},{"type": "link","title": "电阻的串联","lastModified":1696748523,"icon":"https://imgcdn.nobook.com/phy/20210917/202009155f605e8c8dd6d.jpg","url":"https://wl.nobook.com/console/templates/resource/2617_4e34c400-f71b-11ea-8f03-07bd172de15b"},{"type": "link","title": "电阻的并联","lastModified":1696748534,"icon":"https://imgcdn.nobook.com/img/20220113/2022011361dfc83b39b99.png","url":"https://wl.nobook.com/console/templates/resource/2618_a38f3d80-f71c-11ea-8f03-07bd172de15b"},{"type": "link","title": "电阻率与温度的关系","lastModified":1696748439,"icon":"https://imgcdn.nobook.com/phy/20210917/202007245f1a7f7b4e529.jpg","url":"https://u.nobook.com/short-link/qm3x182d"}],
+                    "type": "folder",
+                    "title": "第3节 电阻",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4797,"children":[{"type": "link","title": "用铅笔芯控制小灯泡的亮度","lastModified":1696748493,"icon":"https://imgcdn.nobook.com/phy/20210917/202009155f6051607036c.jpg","url":"https://u.nobook.com/short-link/76vivqrq"},{"type": "link","title": "练习使用滑动变阻器","lastModified":1696747066,"icon":"https://imgcdn.nobook.com/phy/20210917/147599865421824.jpg","url":"https://u.nobook.com/short-link/3gl6n8kc"}],
+                    "type": "folder",
+                    "title": "第4节 变阻器",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4798,"children":[],
+                    "type": "folder",
+                    "title": "第5节 跨学科实践：制作简易调光台灯",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1286,"children":[],
+                "type": "folder",
+                "title": "第十七章  欧姆定律",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4799,"children":[{"type": "link","title": "探究电流与电压的关系","lastModified":1718606875,"icon":"https://imgcdn.nobook.com/phy/20210917/1499408430465.jpg","url":"https://u.nobook.com/short-link/nsb6mtxs"},{"type": "link","title": "探究电流与电阻的关系","lastModified":1718607312,"icon":"https://imgcdn.nobook.com/img/20211108/202111086189095bc8952.jpg","url":"https://u.nobook.com/short-link/4yozzlch"}],
+                    "type": "folder",
+                    "title": "第1节 电流与电压、电阻的关系",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4800,"children":[],
+                    "type": "folder",
+                    "title": "第2节 欧姆定律",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4801,"children":[{"type": "link","title": "伏安法测电阻","lastModified":1718593876,"icon":"https://imgcdn.nobook.com/phy/20210917/202009155f6056661feba.jpg","url":"https://u.nobook.com/short-link/i9vsxy71"},{"type": "link","title": "伏安法测小灯泡电阻","lastModified":1706190846,"icon":"https://imgcdn.nobook.com/phy/20210917/202009155f6058a3060e1.jpg","url":"https://u.nobook.com/short-link/tfe5y852"},{"type": "link","title": "测量小灯泡工作时的电阻","lastModified":1696746716,"icon":"https://imgcdn.nobook.com/phy/20210917/147919491386663.jpg","url":"https://wl.nobook.com/console/templates/resource/319_32c86a31d19f9c591fbae558d2c31bd3"},{"type": "link","title": "练习使用多用电表","lastModified":1701833382,"icon":"https://imgcdn.nobook.com/phy/20210917/1499408944668.jpg","url":"https://wl.nobook.com/console/templates/resource/297_18d6b2dc4675bfd2f4227618b1ea76c8"}],
+                    "type": "folder",
+                    "title": "第3节 电阻的测量",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4802,"children":[{"type": "link","title": "伏阻法测电阻","lastModified":1742527057,"icon":"https://imgcdn.nobook.com/phy/20210917/148274396753680.jpg","url":"https://u.nobook.com/short-link/x3hk297n"},{"type": "link","title": "安阻法测量电阻","lastModified":1696746565,"icon":"https://imgcdn.nobook.com/phy/20210917/148274377883241.jpg","url":"https://u.nobook.com/short-link/1mamjviy"},{"type": "link","title": "单伏法测电阻","lastModified":1696748555,"icon":"https://imgcdn.nobook.com/phy/20210917/20210125600e760bb7584.jpg","url":"https://u.nobook.com/short-link/gp3mfp8z"},{"type": "link","title": "单安法测电阻","lastModified":1717134392,"icon":"https://imgcdn.nobook.com/phy/20210917/20210126600fa7f82c756.jpg","url":"https://u.nobook.com/short-link/ivhcypbk"},{"type": "link","title": "双伏法测电阻","lastModified":1717134384,"icon":"https://imgcdn.nobook.com/phy/20210917/20210126600fa9015b722.jpg","url":"https://u.nobook.com/short-link/1eklqmzj"},{"type": "link","title": "双安法测电阻","lastModified":1696748596,"icon":"https://imgcdn.nobook.com/phy/20210917/20210126600fa9fb54614.jpg","url":"https://u.nobook.com/short-link/loxsdjrg"},{"type": "link","title": "电压表判断电路故障","lastModified":1706191039,"icon":"https://imgcdn.nobook.com/phy/20210917/148282118864261.jpg","url":"https://u.nobook.com/short-link/otbosowl"}],
+                    "type": "folder",
+                    "title": "第4节 欧姆定律在串、并联电路中的应用",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1287,"children":[],
+                "type": "folder",
+                "title": "第十八章  电功率",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4803,"children":[{"type": "link","title": "电能表的使用","lastModified":1688373249,"icon":"https://imgcdn.nobook.com/phy/20210917/f24d91b0-d596-11e7-a654-d7f858d86fed.jpg","url":"https://u.nobook.com/short-link/d3w1yfzu"}],
+                    "type": "folder",
+                    "title": "第1节 电能 电功",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4804,"children":[{"type": "link","title": "不同电压下灯泡消耗功率的不同","lastModified":1696746651,"icon":"https://imgcdn.nobook.com/phy/20210917/1499416965163.jpg","url":"https://u.nobook.com/short-link/r719442f"},{"type": "link","title": "测量灯泡的电功率","lastModified":1696746595,"icon":"https://imgcdn.nobook.com/phy/20210917/148099357437861.jpg","url":"https://u.nobook.com/short-link/q4ibc27n"},{"type": "link","title": "灯泡的电功率跟哪些因素有关","lastModified":1696746618,"icon":"https://imgcdn.nobook.com/phy/20210917/1500017150975.jpg","url":"https://wl.nobook.com/console/templates/resource/316_6a6e4fa8a2c60275f4141385bf8e86cc"},{"type": "link","title": "比较两个灯泡的亮暗（串联）","lastModified":1696747694,"icon":"https://imgcdn.nobook.com/phy/20210917/201904125cb028933f002.jpg","url":"https://wl.nobook.com/console/templates/resource/2102_220e3cf0-5ce7-11e9-82de-c3043e344277"},{"type": "link","title": "比较两个灯泡的亮暗（并联）","lastModified":1696747724,"icon":"https://imgcdn.nobook.com/phy/20210917/201904125cb029ff393ca.jpg","url":"https://wl.nobook.com/console/templates/resource/2103_ebd582f0-5ce7-11e9-82de-c3043e344277"}],
+                    "type": "folder",
+                    "title": "第2节 电功率",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4805,"children":[],
+                    "type": "folder",
+                    "title": "第3节 跨学科实践：为家庭节约用电提建议",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4806,"children":[{"type": "link","title": "焦耳定律—电阻相同电流不同","lastModified":1706191020,"icon":"https://imgcdn.nobook.com/phy/20210917/201901105c36a2a794aa6.jpg","url":"https://u.nobook.com/short-link/b4chang6"},{"type": "link","title": "焦耳定律—电流相同电阻不同","lastModified":1706191026,"icon":"https://imgcdn.nobook.com/phy/20210917/201901105c36a4242b499.jpg","url":"https://u.nobook.com/short-link/luwtwtkh"},{"type": "link","title": "焦耳定律-电阻相同电流不同时生热比较","lastModified":1749697245,"icon":"https://imgcdn.nobook.com/phy/20210917/1499419261999.jpg","url":"https://wl.nobook.com/console/templates/resource/322_2af491fde828588ae800edbaf6254c72"},{"type": "link","title": "焦耳定律-电流相同电阻不同时生热比较","lastModified":1749697227,"icon":"https://imgcdn.nobook.com/phy/20210917/147600395978129.jpg","url":"https://wl.nobook.com/console/templates/resource/323_df48e4809ba86337b3e93cf0b876081c"}],
+                    "type": "folder",
+                    "title": "第4节 焦耳定律",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1288,"children":[],
+                "type": "folder",
+                "title": "第十九章  生活用电",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4807,"children":[{"type": "link","title": "家庭电路短路模拟","lastModified":1756437504,"icon":"https://imgcdn.nobook.com/phy/20210917/148275240372689.jpg","url":"https://u.nobook.com/short-link/4daih922"}],
+                    "type": "folder",
+                    "title": "第1节 安全用电",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4808,"children":[{"type": "link","title": "家庭电路中电流过大的原因","lastModified":1756437486,"icon":"https://imgcdn.nobook.com/phy/20210917/1498615031557.jpg","url":"https://u.nobook.com/short-link/vq3fwwmw"},{"type": "link","title": "家庭电路练习使用验电笔","lastModified":1756437647,"icon":"https://imgcdn.nobook.com/phy/20210917/148275270140150.jpg","url":"https://u.nobook.com/short-link/pooziblk"},{"type": "link","title": "家庭电路漏电保护功能","lastModified":1756438679,"icon":"https://imgcdn.nobook.com/phy/20210917/148275307022420.jpg","url":"https://u.nobook.com/short-link/nsyopm6d"},{"type": "link","title": "学习家庭电路的组成","lastModified":1756438804,"icon":"https://imgcdn.nobook.com/phy/20210917/148280338858003.jpg","url":"https://u.nobook.com/short-link/u2c7v73t"},{"type": "link","title": "学习电能表的使用","lastModified":1756438952,"icon":"https://imgcdn.nobook.com/phy/20210917/148283262510037.jpg","url":"https://u.nobook.com/short-link/2jkjy6nv"},{"type": "link","title": "家庭电路漏电保护功能","lastModified":1756438679,"icon":"https://imgcdn.nobook.com/phy/20210917/148275307022420.jpg","url":"https://u.nobook.com/short-link/nsyopm6d"},{"type": "link","title": "学习家庭电路的组成","lastModified":1756438804,"icon":"https://imgcdn.nobook.com/phy/20210917/148280338858003.jpg","url":"https://u.nobook.com/short-link/u2c7v73t"},{"type": "link","title": "学习电能表的使用","lastModified":1756438952,"icon":"https://imgcdn.nobook.com/phy/20210917/148283262510037.jpg","url":"https://u.nobook.com/short-link/2jkjy6nv"}],
+                    "type": "folder",
+                    "title": "第2节 家庭电路的基本组成",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4809,"children":[{"type": "link","title": "家庭电路照明电路","lastModified":1756437521,"icon":"https://imgcdn.nobook.com/phy/20210917/148275260673610.jpg","url":"https://u.nobook.com/short-link/b8c4u4u3"},{"type": "link","title": "不同功率灯泡亮度","lastModified":1756437441,"icon":"https://imgcdn.nobook.com/phy/20210917/1500009507859.jpg","url":"https://u.nobook.com/short-link/lofnjp68"},{"type": "link","title": "家庭电路床头灯开关控制原理","lastModified":1756438744,"icon":"https://imgcdn.nobook.com/phy/20210917/148275319599272.jpg","url":"https://u.nobook.com/short-link/gc1z9f9g"},{"type": "link","title": "家庭电路照明电路","lastModified":1756437521,"icon":"https://imgcdn.nobook.com/phy/20210917/148275260673610.jpg","url":"https://u.nobook.com/short-link/b8c4u4u3"},{"type": "link","title": "不同功率灯泡亮度","lastModified":1756437441,"icon":"https://imgcdn.nobook.com/phy/20210917/1500009507859.jpg","url":"https://u.nobook.com/short-link/lofnjp68"},{"type": "link","title": "家庭电路床头灯开关控制原理","lastModified":1756438744,"icon":"https://imgcdn.nobook.com/phy/20210917/148275319599272.jpg","url":"https://u.nobook.com/short-link/gc1z9f9g"}],
+                    "type": "folder",
+                    "title": "第3节 跨学科实践：为家庭电路做设计",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1289,"children":[],
+                "type": "folder",
+                "title": "第二十章  电与磁",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4810,"children":[{"type": "link","title": "磁铁的基本性质","lastModified":1712564133,"icon":"https://imgcdn.nobook.com/phy/20210917/148766264488248.jpg","url":"https://wl.nobook.com/console/templates/resource/278_36c723179d8c3c4e1959eafdefb98698"},{"type": "link","title": "研究磁场的方向","lastModified":1706189152,"icon":"https://imgcdn.nobook.com/phy/20210917/147606515486006.jpg","url":"https://u.nobook.com/short-link/oainmghp"},{"type": "link","title": "磁铁的基本性质","lastModified":1712564133,"icon":"https://imgcdn.nobook.com/phy/20210917/148766264488248.jpg","url":"https://wl.nobook.com/console/templates/resource/278_36c723179d8c3c4e1959eafdefb98698"},{"type": "link","title": "研究磁场的方向","lastModified":1706189152,"icon":"https://imgcdn.nobook.com/phy/20210917/147606515486006.jpg","url":"https://u.nobook.com/short-link/oainmghp"}],
+                    "type": "folder",
+                    "title": "第1节 磁现象 磁场",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4811,"children":[{"type": "link","title": "演示奥斯特实验","lastModified":1706189219,"icon":"https://imgcdn.nobook.com/phy/20210917/148289305730116.jpg","url":"https://u.nobook.com/short-link/6nvvvbye"},{"type": "link","title": "模拟通电螺线管磁感线","lastModified":1706189203,"icon":"https://imgcdn.nobook.com/phy/20210917/148403561953767.jpg","url":"https://u.nobook.com/short-link/w27szwis"},{"type": "link","title": "探究通电螺线管的磁场特性","lastModified":1729735392,"icon":"https://imgcdn.nobook.com/phy/20210917/201911285ddf6f16ba143.jpg","url":"https://u.nobook.com/short-link/4solji28"},{"type": "link","title": "演示奥斯特实验","lastModified":1706189219,"icon":"https://imgcdn.nobook.com/phy/20210917/148289305730116.jpg","url":"https://u.nobook.com/short-link/6nvvvbye"},{"type": "link","title": "模拟通电螺线管磁感线","lastModified":1706189203,"icon":"https://imgcdn.nobook.com/phy/20210917/148403561953767.jpg","url":"https://u.nobook.com/short-link/w27szwis"},{"type": "link","title": "探究通电螺线管的磁场特性","lastModified":1729735392,"icon":"https://imgcdn.nobook.com/phy/20210917/201911285ddf6f16ba143.jpg","url":"https://u.nobook.com/short-link/4solji28"}],
+                    "type": "folder",
+                    "title": "第2节 电生磁",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4812,"children":[{"type": "link","title": "探究电磁铁的磁性","lastModified":1706189176,"icon":"https://imgcdn.nobook.com/phy/20210917/148289355531848.jpg","url":"https://u.nobook.com/short-link/ls1elesx"},{"type": "link","title": "有无铁芯对电磁铁磁性的影响","lastModified":1706189226,"icon":"https://imgcdn.nobook.com/phy/20210917/1501570000318.jpg","url":"https://u.nobook.com/short-link/ti3gnzqt"},{"type": "link","title": "演示继电器的使用","lastModified":1696736713,"icon":"https://imgcdn.nobook.com/phy/20210917/148289458441736.jpg","url":"https://wl.nobook.com/console/templates/resource/272_9b8a66667df04b0f311eeaff74522f1c"},{"type": "link","title": "探究电铃的构造","lastModified":1696736429,"icon":"https://imgcdn.nobook.com/phy/20210917/148289572726997.jpg","url":"https://wl.nobook.com/console/templates/resource/266_0d3a7381a3c2deef3c6119d9d06eeeb6"},{"type": "link","title": "探究电磁铁的磁性","lastModified":1706189176,"icon":"https://imgcdn.nobook.com/phy/20210917/148289355531848.jpg","url":"https://u.nobook.com/short-link/ls1elesx"},{"type": "link","title": "有无铁芯对电磁铁磁性的影响","lastModified":1706189226,"icon":"https://imgcdn.nobook.com/phy/20210917/1501570000318.jpg","url":"https://u.nobook.com/short-link/ti3gnzqt"},{"type": "link","title": "演示继电器的使用","lastModified":1696736713,"icon":"https://imgcdn.nobook.com/phy/20210917/148289458441736.jpg","url":"https://wl.nobook.com/console/templates/resource/272_9b8a66667df04b0f311eeaff74522f1c"},{"type": "link","title": "探究电铃的构造","lastModified":1696736429,"icon":"https://imgcdn.nobook.com/phy/20210917/148289572726997.jpg","url":"https://wl.nobook.com/console/templates/resource/266_0d3a7381a3c2deef3c6119d9d06eeeb6"}],
+                    "type": "folder",
+                    "title": "第3节 电磁铁 电磁继电器",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4813,"children":[{"type": "link","title": "演示通电导线在磁场中的受力","lastModified":1706189248,"icon":"https://imgcdn.nobook.com/phy/20210917/148289464426444.jpg","url":"https://u.nobook.com/short-link/8eex7ca6"},{"type": "link","title": "通电导线与磁体通过磁场发生作用","lastModified":1701675379,"icon":"https://imgcdn.nobook.com/phy/20210917/148597928727029.jpg","url":"https://wl.nobook.com/console/templates/resource/250_b89a8d4ee3aaf8623cb591f77a816610"},{"type": "link","title": "电动机原理","lastModified":1706189383,"icon":"https://imgcdn.nobook.com/phy/20210917/148420506780197.jpg","url":"https://wl.nobook.com/console/templates/resource/252_eb1b9adb7a800984d0579d4f151e9957"},{"type": "link","title": "演示通电导线在磁场中的受力","lastModified":1706189248,"icon":"https://imgcdn.nobook.com/phy/20210917/148289464426444.jpg","url":"https://u.nobook.com/short-link/8eex7ca6"},{"type": "link","title": "通电导线与磁体通过磁场发生作用","lastModified":1701675379,"icon":"https://imgcdn.nobook.com/phy/20210917/148597928727029.jpg","url":"https://wl.nobook.com/console/templates/resource/250_b89a8d4ee3aaf8623cb591f77a816610"},{"type": "link","title": "电动机原理","lastModified":1706189383,"icon":"https://imgcdn.nobook.com/phy/20210917/148420506780197.jpg","url":"https://wl.nobook.com/console/templates/resource/252_eb1b9adb7a800984d0579d4f151e9957"}],
+                    "type": "folder",
+                    "title": "第4节 电动机",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4814,"children":[{"type": "link","title": "演示小电动机","lastModified":1706189402,"icon":"https://imgcdn.nobook.com/phy/20210917/148418629931638.jpg","url":"https://wl.nobook.com/console/templates/resource/254_0e8c1064ca84da39738667417c41d01f"},{"type": "link","title": "演示电动机换向器原理","lastModified":1706189363,"icon":"https://imgcdn.nobook.com/phy/20210917/148289469818594.jpg","url":"https://u.nobook.com/short-link/pf9sos3u"},{"type": "link","title": "演示小电动机","lastModified":1706189402,"icon":"https://imgcdn.nobook.com/phy/20210917/148418629931638.jpg","url":"https://wl.nobook.com/console/templates/resource/254_0e8c1064ca84da39738667417c41d01f"},{"type": "link","title": "演示电动机换向器原理","lastModified":1706189363,"icon":"https://imgcdn.nobook.com/phy/20210917/148289469818594.jpg","url":"https://u.nobook.com/short-link/pf9sos3u"}],
+                    "type": "folder",
+                    "title": "第5节 跨学科实践：制作简易直流电动机",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4815,"children":[{"type": "link","title": "演示磁生电实验","lastModified":1721200217,"icon":"https://imgcdn.nobook.com/img/20220105/2022010561d5608b270f8.png","url":"https://u.nobook.com/short-link/mgru8o9t"},{"type": "link","title": "探究影响感应电流方向的因素","lastModified":1708570904,"icon":"https://imgcdn.nobook.com/phy/20210917/148420575885778.jpg","url":"https://wl.nobook.com/console/templates/resource/246_c6d03d73cd096f29e916088d6fef0dbf"},{"type": "link","title": "演示手摇发电机","lastModified":1706189345,"icon":"https://imgcdn.nobook.com/phy/20210917/148289494650878.jpg","url":"https://u.nobook.com/short-link/pv6cmosp"},{"type": "link","title": "演示磁生电实验","lastModified":1721200217,"icon":"https://imgcdn.nobook.com/img/20220105/2022010561d5608b270f8.png","url":"https://u.nobook.com/short-link/mgru8o9t"},{"type": "link","title": "探究影响感应电流方向的因素","lastModified":1708570904,"icon":"https://imgcdn.nobook.com/phy/20210917/148420575885778.jpg","url":"https://wl.nobook.com/console/templates/resource/246_c6d03d73cd096f29e916088d6fef0dbf"},{"type": "link","title": "演示手摇发电机","lastModified":1706189345,"icon":"https://imgcdn.nobook.com/phy/20210917/148289494650878.jpg","url":"https://u.nobook.com/short-link/pv6cmosp"}],
+                    "type": "folder",
+                    "title": "第6节 磁生电",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1290,"children":[],
+                "type": "folder",
+                "title": "第二十一章  电磁波及其应用",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4816,"children":[{"type": "link","title": "红外线的热效应","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/0e79e320-d592-11e7-a654-d7f858d86fed.jpg","url":"https://wl.nobook.com/console/templates/resource/181_e1bb4440f121362c337982759c47b247"},{"type": "link","title": "红外线的热效应","lastModified":1531191337,"icon":"https://imgcdn.nobook.com/phy/20210917/0e79e320-d592-11e7-a654-d7f858d86fed.jpg","url":"https://wl.nobook.com/console/templates/resource/181_e1bb4440f121362c337982759c47b247"}],
+                    "type": "folder",
+                    "title": "第1节 电磁波的海洋",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4817,"children":[],
+                    "type": "folder",
+                    "title": "第2节 广播、电视和移动通信",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4818,"children":[{"type": "link","title": "水流导光","lastModified":1655952090,"icon":"https://imgcdn.nobook.com/phy/20210917/88f3fe50-d593-11e7-a654-d7f858d86fed.jpg","url":"https://u.nobook.com/short-link/nfp9srxh"},{"type": "link","title": "光导纤维导光现象","lastModified":1655952020,"icon":"https://imgcdn.nobook.com/phy/20210917/148289190620996.jpg","url":"https://u.nobook.com/short-link/8avvbjnn"},{"type": "link","title": "水流导光","lastModified":1655952090,"icon":"https://imgcdn.nobook.com/phy/20210917/88f3fe50-d593-11e7-a654-d7f858d86fed.jpg","url":"https://u.nobook.com/short-link/nfp9srxh"},{"type": "link","title": "光导纤维导光现象","lastModified":1655952020,"icon":"https://imgcdn.nobook.com/phy/20210917/148289190620996.jpg","url":"https://u.nobook.com/short-link/8avvbjnn"}],
+                    "type": "folder",
+                    "title": "第3节 卫星通信和光纤通信",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              },
+              {
+                "id": 1291,"children":[],
+                "type": "folder",
+                "title": "第二十二章  能源与可持续发展",
+                "icon": "",
+                "rank": 0,
+                "children": [
+                  {
+                    "id": 4819,"children":[],
+                    "type": "folder",
+                    "title": "第1节 能源利用的现状和面临的挑战",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4820,"children":[{"type": "link","title": "α粒子散射","lastModified":1717057545,"icon":"https://imgcdn.nobook.com/phy/20210917/edb76c60-e62c-11e7-ba46-134f024dd2ed.jpg","url":"https://wl.nobook.com/console/templates/resource/6_02e71c92543aa1de465a068e2fe5e237"},{"type": "link","title": "核裂变原理","lastModified":1717123052,"icon":"https://imgcdn.nobook.com/phy/20210917/201911135dcba4392d378.jpg","url":"https://wl.nobook.com/console/templates/resource/2489_a92f80d0-05df-11ea-a786-65a26a20e766"},{"type": "link","title": "核反应堆原理","lastModified":1688373491,"icon":"https://imgcdn.nobook.com/phy/20210917/201911135dcba563c7691.jpg","url":"https://wl.nobook.com/console/templates/resource/2490_51a59240-05e0-11ea-a786-65a26a20e766"},{"type": "link","title": "α粒子散射","lastModified":1717057545,"icon":"https://imgcdn.nobook.com/phy/20210917/edb76c60-e62c-11e7-ba46-134f024dd2ed.jpg","url":"https://wl.nobook.com/console/templates/resource/6_02e71c92543aa1de465a068e2fe5e237"},{"type": "link","title": "核裂变原理","lastModified":1717123052,"icon":"https://imgcdn.nobook.com/phy/20210917/201911135dcba4392d378.jpg","url":"https://wl.nobook.com/console/templates/resource/2489_a92f80d0-05df-11ea-a786-65a26a20e766"},{"type": "link","title": "核反应堆原理","lastModified":1688373491,"icon":"https://imgcdn.nobook.com/phy/20210917/201911135dcba563c7691.jpg","url":"https://wl.nobook.com/console/templates/resource/2490_51a59240-05e0-11ea-a786-65a26a20e766"}],
+                    "type": "folder",
+                    "title": "第2节 新能源的发展",
+                    "icon": "",
+                    "rank": 0
+                  },
+                  {
+                    "id": 4821,"children":[],
+                    "type": "folder",
+                    "title": "第3节 跨学科实践：为节约能源设计方案",
+                    "icon": "",
+                    "rank": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

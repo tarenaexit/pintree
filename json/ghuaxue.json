@@ -1,0 +1,569 @@
+[{
+  "id": 12,
+  "title": "新人教版",
+  "type": "folder",
+  "icon": "",
+  "children": [
+    {
+      "id": 130,
+      "title": "必修一",
+      "type": "folder",
+      "icon": "https://imgcdn.nobook.com/resource/textbook/3-2-12-130.jpg",
+      "children": [
+        {
+          "id": 533,
+          "title": "第一章 物质及其变化",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2565,"children":[{"type": "link","title": "认识胶体","lastModified":1708236952,"icon":"https://imgcdn.nobook.com/img/20220921/20220921632adefa373b8.png","url":"https://hx.nobook.com/console/templates/resource/2940_b78f0e3a-4872-4341-b9c7-8745a8a7329b"},{"type": "link","title": "氢氧化铁胶体的制备","lastModified":1736997964,"icon":"https://imgcdn.nobook.com/chem/20210917/201909055d70d6c4057b0.png","url":"https://hx.nobook.com/console/templates/resource/2411_ed31d83746b518fcfaba1df6cb222dfd"},{"type": "link","title": "1.1.1物质的分类","lastModified":1672300166,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad4684d9d62.jpg","url":"https://hx.nobook.com/guidance/40"},{"type": "link","title": "物质的分类","lastModified":1689911035,"icon":"https://imgcdn.nobook.com/img/20230721/2023072164b9f25a60588.jpg","url":"https://hx.nobook.com/guidance/56337"},{"type": "link","title": "分散系","lastModified":1689911045,"icon":"https://imgcdn.nobook.com/img/20230721/2023072164b9f41c022b3.jpg","url":"https://hx.nobook.com/guidance/56340"},{"type": "link","title": "物质的分类","lastModified":1689911035,"icon":"https://imgcdn.nobook.com/img/20230721/2023072164b9f25a60588.jpg","url":"https://hx.nobook.com/guidance/56337"},{"type": "link","title": "分散系","lastModified":1689911045,"icon":"https://imgcdn.nobook.com/img/20230721/2023072164b9f41c022b3.jpg","url":"https://hx.nobook.com/guidance/56340"}],
+              "title": "第一节 物质的分类及转化",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2566,"children":[{"type": "link","title": "过少量问题探究实验","lastModified":1722847045,"icon":"https://imgcdn.nobook.com/img/20231031/20231031654070ebce4cb.png","url":"https://hx.nobook.com/console/templates/resource/3409_3791de6d-e55b-4c37-ae6b-2bd43dbe71ec"},{"type": "link","title": "硫酸钠溶液和氯化钡溶液的反应","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/c483a03e18969f600aeac3306c730979.png","url":"https://hx.nobook.com/console/templates/resource/411_3b8ba45d13e64471ad4cc92dc115b665"},{"type": "link","title": "试验物质的导电性1","lastModified":1595395660,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460532c2cd3.png","url":"https://hx.nobook.com/console/templates/resource/2513_144b808f354c6ec21d8fd654763d7fe3"},{"type": "link","title": "电解质与电离","lastModified":1690458844,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d6226c156.jpg","url":"https://hx.nobook.com/guidance/57163"},{"type": "link","title": "电解质","lastModified":1690426288,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d657820ae.jpg","url":"https://hx.nobook.com/guidance/57164"},{"type": "link","title": "电离及电离方程式的书写","lastModified":1753670466,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d7106cf9a.jpg","url":"https://hx.nobook.com/guidance/57165"},{"type": "link","title": "1.2.1电解质的电离","lastModified":1672300215,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad46b5dd9cf.jpg","url":"https://hx.nobook.com/guidance/41"},{"type": "link","title": "1.2.2离子反应","lastModified":1672300196,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad46a2d9d99.jpg","url":"https://hx.nobook.com/guidance/43"},{"type": "link","title": "物质导电性问题","lastModified":1690458898,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d73d20612.jpg","url":"https://hx.nobook.com/guidance/57166"},{"type": "link","title": "离子反应","lastModified":1690533369,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c2671e8a2bb.jpg","url":"https://hx.nobook.com/guidance/57735"},{"type": "link","title": "离子反应","lastModified":1690512185,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c2674757024.jpg","url":"https://hx.nobook.com/guidance/57739"},{"type": "link","title": "离子共存","lastModified":1690524464,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c267675f765.jpg","url":"https://hx.nobook.com/guidance/57745"},{"type": "link","title": "离子反应之过量少量问题","lastModified":1692676565,"icon":"https://imgcdn.nobook.com/img/20230822/2023082264e41f0830030.jpg","url":"https://hx.nobook.com/guidance/62340"},{"type": "link","title": "离子反应之过量少量问题","lastModified":1693540204,"icon":"https://imgcdn.nobook.com/img/20230822/2023082264e41f331c20f.jpg","url":"https://hx.nobook.com/guidance/62341"},{"type": "link","title": "探究活动二","lastModified":1672300090,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad4638cac0a.jpg","url":"https://hx.nobook.com/guidance/519"},{"type": "link","title": "电解质与电离","lastModified":1690458844,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d6226c156.jpg","url":"https://hx.nobook.com/guidance/57163"},{"type": "link","title": "电解质","lastModified":1690426288,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d657820ae.jpg","url":"https://hx.nobook.com/guidance/57164"},{"type": "link","title": "电离及电离方程式的书写","lastModified":1753670466,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d7106cf9a.jpg","url":"https://hx.nobook.com/guidance/57165"},{"type": "link","title": "1.2.1电解质的电离","lastModified":1672300215,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad46b5dd9cf.jpg","url":"https://hx.nobook.com/guidance/41"},{"type": "link","title": "1.2.2离子反应","lastModified":1672300196,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad46a2d9d99.jpg","url":"https://hx.nobook.com/guidance/43"},{"type": "link","title": "物质导电性问题","lastModified":1690458898,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c1d73d20612.jpg","url":"https://hx.nobook.com/guidance/57166"},{"type": "link","title": "离子反应","lastModified":1690533369,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c2671e8a2bb.jpg","url":"https://hx.nobook.com/guidance/57735"},{"type": "link","title": "离子反应","lastModified":1690512185,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c2674757024.jpg","url":"https://hx.nobook.com/guidance/57739"},{"type": "link","title": "离子共存","lastModified":1690524464,"icon":"https://imgcdn.nobook.com/img/20230727/2023072764c267675f765.jpg","url":"https://hx.nobook.com/guidance/57745"},{"type": "link","title": "离子反应之过量少量问题","lastModified":1692676565,"icon":"https://imgcdn.nobook.com/img/20230822/2023082264e41f0830030.jpg","url":"https://hx.nobook.com/guidance/62340"},{"type": "link","title": "离子反应之过量少量问题","lastModified":1693540204,"icon":"https://imgcdn.nobook.com/img/20230822/2023082264e41f331c20f.jpg","url":"https://hx.nobook.com/guidance/62341"},{"type": "link","title": "探究活动二","lastModified":1672300090,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad4638cac0a.jpg","url":"https://hx.nobook.com/guidance/519"}],
+              "title": "第二节 离子反应",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2567,"children":[{"type": "link","title": "过氧化氢氧化性、还原性的研究","lastModified":1706163480,"icon":"https://imgcdn.nobook.com/img/20220902/202209026311dea98bb99.png","url":"https://hx.nobook.com/console/templates/resource/2919_6d6d55edf461f7a00a8d989f32954392"},{"type": "link","title": "氧化性与还原性强弱的探究","lastModified":1706163499,"icon":"https://imgcdn.nobook.com/img/20221011/202210116344d81350af5.jpg","url":"https://hx.nobook.com/console/templates/resource/2954_7c0af49ccbde87d3e091b1f524b92d52"},{"type": "link","title": "1.3.1氧化还原反应","lastModified":1672299924,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad459100c14.jpg","url":"https://hx.nobook.com/guidance/333"},{"type": "link","title": "1.3.2氧化剂与还原剂","lastModified":1665989704,"icon":"https://imgcdn.nobook.com/img/20220804/2022080462eb9b0857aff.jpg","url":"https://hx.nobook.com/guidance/1021"},{"type": "link","title": "国庆探究专题：高中化学","lastModified":1672300259,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad46e162fcf.jpg","url":"https://hx.nobook.com/guidance/6188"},{"type": "link","title": "国庆探究专题：高中化学","lastModified":1672300259,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad46e162fcf.jpg","url":"https://hx.nobook.com/guidance/6188"}],
+              "title": "第三节 氧化还原反应",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 534,
+          "title": "第二章 海水中的重要元素——钠和氯",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2568,"children":[{"type": "link","title": "过碳酸钠制取氧气","lastModified":1700737843,"icon":"https://imgcdn.nobook.com/img/20231106/202311066548a44a8db38.png","url":"https://hx.nobook.com/console/templates/resource/3411_aaba6a87-8fbb-4c31-bb1c-96cfda1ecc5f"},{"type": "link","title": "钠在空气中的燃烧实验","lastModified":1706163677,"icon":"https://imgcdn.nobook.com/img/20221103/202211036363bb9740590.png","url":"https://hx.nobook.com/console/templates/resource/417_de923eb6e83da693c3fabaede97b3998"},{"type": "link","title": "2.1.1活泼的金属单质——钠","lastModified":1665989697,"icon":"https://imgcdn.nobook.com/img/20220908/202209086319a276d5fba.jpg","url":"https://hx.nobook.com/guidance/4379"},{"type": "link","title": "2.1.2钠的几种化合物 焰色试验","lastModified":1665989689,"icon":"https://imgcdn.nobook.com/img/20220908/202209086319a26ad3b9e.jpg","url":"https://hx.nobook.com/guidance/4384"},{"type": "link","title": "比较碳酸钠和碳酸氢钠的性质","lastModified":1706163645,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460565aaa21.png","url":"https://hx.nobook.com/console/templates/resource/2514_2fe30747b9fab3315235cf8962e918c1"},{"type": "link","title": "焰色试验","lastModified":1706166959,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46058d332a9.png","url":"https://hx.nobook.com/console/templates/resource/2516_f09194ce2eeb43c2fbe549af800e382f"},{"type": "link","title": "过氧化钠与水反应之滴水生火","lastModified":1684154125,"icon":"https://imgcdn.nobook.com/chem/20210917/1ce45e7b36c0a40c780a85237df7027d.png","url":"https://hx.nobook.com/console/templates/resource/392_8b49ed478bf6ab647263d0523f40fb36"},{"type": "link","title": "过氧化钠与水的反应","lastModified":1680231171,"icon":"https://imgcdn.nobook.com/chem/20210917/1f45c5d3f44bcb3c76bfe37cc3be865f.png","url":"https://hx.nobook.com/console/templates/resource/393_62ce5692ddc91a31924528a38e1efb22"},{"type": "link","title": "金属钠的物理性质及在空气中的氧化实验","lastModified":1706163728,"icon":"https://imgcdn.nobook.com/img/20230424/2023042464464d32e9c18.png","url":"https://hx.nobook.com/console/templates/resource/399_ea1819e3defff0a492bb965ffbd1790e"},{"type": "link","title": "钠与水的反应","lastModified":1706163687,"icon":"https://imgcdn.nobook.com/img/20230427/202304276449f28f972c4.png","url":"https://hx.nobook.com/console/templates/resource/419_bdb5eab410293ed0157e3a48166ea2ea"},{"type": "link","title": "焰色试验之烟花","lastModified":1735109195,"icon":"https://imgcdn.nobook.com/chem/20210917/97efee742caed149aecae2696a62897a.png","url":"https://hx.nobook.com/console/templates/resource/357_12d19905a45dad5b44573911ec723b5b"},{"type": "link","title": "碳酸钠与碳酸氢钠的热稳定性验证","lastModified":1706163829,"icon":"https://imgcdn.nobook.com/chem/20210917/1d8f42940c5424a816e69af48da79a82.png","url":"https://hx.nobook.com/console/templates/resource/348_342c755d379fe0011f9a319f39ffc243"},{"type": "link","title": "高一第1天——呼吸面罩下的秘密","lastModified":1672302140,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aa9e26d4ed7.jpg","url":"https://hx.nobook.com/guidance/36492"},{"type": "link","title": "钠在氯气中燃烧","lastModified":1753670752,"icon":"https://imgcdn.nobook.com/chem/20210917/c1dfe7d6a86c8f5673951e6aa72fcb16.png","url":"https://hx.nobook.com/console/templates/resource/439_4aefb4e91897b993912159485e9950db"},{"type": "link","title": "过氧化钠与二氧化碳反应","lastModified":1697426538,"icon":"https://imgcdn.nobook.com/chem/20210917/b6f2fd2f03b03bc3e52165e1a00a5d4e.png","url":"https://hx.nobook.com/console/templates/resource/363_9877fb66367f1ba97448ff94f8739669"},{"type": "link","title": "钠在氯气中燃烧","lastModified":1753670752,"icon":"https://imgcdn.nobook.com/chem/20210917/c1dfe7d6a86c8f5673951e6aa72fcb16.png","url":"https://hx.nobook.com/console/templates/resource/439_4aefb4e91897b993912159485e9950db"},{"type": "link","title": "过氧化钠与二氧化碳反应","lastModified":1697426538,"icon":"https://imgcdn.nobook.com/chem/20210917/b6f2fd2f03b03bc3e52165e1a00a5d4e.png","url":"https://hx.nobook.com/console/templates/resource/363_9877fb66367f1ba97448ff94f8739669"}],
+              "title": "第一节 钠及其化合物",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2569,"children":[{"type": "link","title": "氯气的实验室制法","lastModified":1706161786,"icon":"https://imgcdn.nobook.com/chem/20210917/6b6b50b51d51f8b18bdfdb7b8569db5f.png","url":"https://hx.nobook.com/console/templates/resource/400_53fd74a6a1d676d800fc9e969665561e"},{"type": "link","title": "探究84消毒液的化学性质","lastModified":1661397562,"icon":"https://imgcdn.nobook.com/chem/20210917/202001075e141623c5d73.png","url":"https://hx.nobook.com/console/templates/resource/2496_fa15226d4c158f348302d3856ce7e8d1"},{"type": "link","title": "氯化氢的实验室制备及性质检验","lastModified":1680230432,"icon":"https://imgcdn.nobook.com/img/20220721/2022072162d90e4152c37.png","url":"https://hx.nobook.com/console/templates/resource/2905_d64e2d72cc37d837d90b11f983a9ae34"},{"type": "link","title": "实验室制备84消毒液","lastModified":1680230467,"icon":"https://imgcdn.nobook.com/img/20220630/2022063062bd6084d5ee4.png","url":"https://hx.nobook.com/console/templates/resource/2793_127a568a594e5db4609fea318c6a0766"},{"type": "link","title": "2.2.1 氯气的性质","lastModified":1666065181,"icon":"https://imgcdn.nobook.com/img/20221018/20221018634e22d4116d2.jpg","url":"https://hx.nobook.com/guidance/13268"},{"type": "link","title": "2.2.2 氯气的实验室制法","lastModified":1666077228,"icon":"https://imgcdn.nobook.com/img/20221018/20221018634e522947497.jpg","url":"https://hx.nobook.com/guidance/13367"},{"type": "link","title": "干燥的氯气能否漂白物质的实验","lastModified":1706162872,"icon":"https://imgcdn.nobook.com/img/20211101/20211101617fce6bb305e.png","url":"https://hx.nobook.com/console/templates/resource/414_d177408abcd06184982188fdeebbbcdc"},{"type": "link","title": "氯水的漂白性实验","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/img/20211101/20211101617fd92f240c4.png","url":"https://hx.nobook.com/console/templates/resource/409_a87bc5c9def45499cd49187157cc02dc"},{"type": "link","title": "探究次氯酸的强氧化性","lastModified":1595400791,"icon":"https://imgcdn.nobook.com/chem/20210917/202008275f47abca45541.png","url":"https://hx.nobook.com/console/templates/resource/2517_2328cccb060246857f81a8846455435a"},{"type": "link","title": "氯离子的检验","lastModified":1706164197,"icon":"https://imgcdn.nobook.com/chem/20210917/e8ac46153e04bf368b2ed66d1e1e5f87.png","url":"https://hx.nobook.com/console/templates/resource/347_6f0f3e3db01a5ff28e0bb121f56f48a0"},{"type": "link","title": "铜丝在氯气中燃烧","lastModified":1753670822,"icon":"https://imgcdn.nobook.com/chem/20210917/538e99436f792b15fe339c8f384cada7.png","url":"https://hx.nobook.com/console/templates/resource/396_c282a7c101d6808141fd8178c034b4a0"},{"type": "link","title": "铁丝在氯气中燃烧","lastModified":1753670804,"icon":"https://imgcdn.nobook.com/chem/20210917/c7f7aab4b13a6c419ab2cf117de577f4.png","url":"https://hx.nobook.com/console/templates/resource/413_590511ecde566d6fc4488e31a8850fb8"},{"type": "link","title": "氢气在氯气中燃烧","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/dda90e1bd800eafe27bbf6c24f367c68.png","url":"https://hx.nobook.com/console/templates/resource/416_0fdd1feed35ef4ed14351b03805609fc"},{"type": "link","title": "氯化氢做喷泉实验","lastModified":1661397858,"icon":"https://imgcdn.nobook.com/chem/20210917/a127bedfe8e6e7f6cd66a979e3110ab4.png","url":"https://hx.nobook.com/console/templates/resource/359_3e9db83b3cbad1f7b3e75bb3a2159f73"},{"type": "link","title": "高一第2天——病毒？我弄点儿84消灭你！","lastModified":1672302165,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aa9e3df0579.jpg","url":"https://hx.nobook.com/guidance/36495"},{"type": "link","title": "高一第4天——消杀！消杀！用什么消毒剂呢？","lastModified":1672301989,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aa9dd74ade2.jpg","url":"https://hx.nobook.com/guidance/35905"}],
+              "title": "第二节 氯及其化合物",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2570,"children":[{"type": "link","title": "2.3.1 物质的量的单位——摩尔","lastModified":1667892232,"icon":"https://imgcdn.nobook.com/img/20221108/202211086369f69acb870.jpg","url":"https://hx.nobook.com/guidance/24164"},{"type": "link","title": "配制一定物质的量浓度的溶液","lastModified":1706161572,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46069222655.png","url":"https://hx.nobook.com/console/templates/resource/2518_d4923458af46b333b55c0aea1c168da5"}],
+              "title": "第三节 物质的量",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 535,
+          "title": "第三章 铁 金属材料",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2571,"children":[{"type": "link","title": "钠与硫酸亚铁溶液反应","lastModified":1684227142,"icon":"https://imgcdn.nobook.com/img/20230426/202304266448fdd0d2c64.png","url":"https://hx.nobook.com/console/templates/resource/3248_9a60f08b-eae4-441a-952c-3bbfd239b2ab"},{"type": "link","title": "检验食物中的铁元素","lastModified":1706164071,"icon":"https://imgcdn.nobook.com/img/20231103/202311036544921893bde.png","url":"https://hx.nobook.com/console/templates/resource/3425_3b836b22-ccb7-4b21-bc5c-9093245f7450"},{"type": "link","title": "氢氧化亚铁的制备","lastModified":1706163005,"icon":"https://imgcdn.nobook.com/img/20230105/2023010563b688356ca7c.png","url":"https://hx.nobook.com/console/templates/resource/3076_aeab743a-e057-486b-9b75-bd72608a69f5"},{"type": "link","title": "利用覆铜板制作图案","lastModified":1706164441,"icon":"https://imgcdn.nobook.com/chem/20210917/202009275f6ff799a78be.png","url":"https://hx.nobook.com/console/templates/resource/2622_1f7598252ef600777e0e3ff52a4b588a"},{"type": "link","title": "铁粉与水蒸气的反应","lastModified":1752659079,"icon":"https://imgcdn.nobook.com/chem/20210917/f12942a2b687e90436f5f2365bf4fcb8.png","url":"https://hx.nobook.com/console/templates/resource/421_2d606c667b6e8f2ff0d0ed8e2e94d31c"},{"type": "link","title": "铁离子亚铁离子的转化","lastModified":1706164050,"icon":"https://imgcdn.nobook.com/chem/20210917/a3c2f0c44d08a47b158f7590da549f8c.png","url":"https://hx.nobook.com/console/templates/resource/360_4ac59c6c86498edc0531d0f5f964499a"},{"type": "link","title": "铁离子的检验","lastModified":1706164042,"icon":"https://imgcdn.nobook.com/chem/20210917/201910115d9febf697702.png","url":"https://hx.nobook.com/console/templates/resource/362_b0362fa38998ebad934dd3813fbf4cc3"},{"type": "link","title": "氯化铁及硫酸亚铁与氢氧化钠的反应","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/e21170f25bfbb75775180dd0df2d4b48.png","url":"https://hx.nobook.com/console/templates/resource/366_ae47d51b173555b6cdef134f530784a2"},{"type": "link","title": "高一第3天——疫后补血——二价铁？or三价铁？","lastModified":1672302187,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aa9e51d954d.jpg","url":"https://hx.nobook.com/guidance/36523"}],
+              "title": "第一节 铁及其化合物",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2572,"children":[{"type": "link","title": "铁及其化合物的性质","lastModified":1722330620,"icon":"https://imgcdn.nobook.com/chem/20210917/202008285f48c1b25c052.png","url":"https://hx.nobook.com/console/templates/resource/2609_dd6c0cf052af37bb50166e3bca6c128e"},{"type": "link","title": "铝片与盐酸反应","lastModified":1597733327,"icon":"https://imgcdn.nobook.com/img/20211129/2021112961a4ba60e0562.png","url":"https://hx.nobook.com/console/templates/resource/2593_210df133d9595040e023dabbf3e55b02"},{"type": "link","title": "铝片与氢氧化钠溶液反应","lastModified":1680230868,"icon":"https://imgcdn.nobook.com/img/20211129/2021112961a4ba5149e79.png","url":"https://hx.nobook.com/console/templates/resource/2594_5dac933ac556f41aadea69df4a4bc234"},{"type": "link","title": "氢氧化铝的两性","lastModified":1697427243,"icon":"https://imgcdn.nobook.com/chem/20210917/201910115d9fea43bdc53.png","url":"https://hx.nobook.com/console/templates/resource/361_aee8a6321ae5c261b02abd45e1dae483"},{"type": "link","title": "氢氧化铝的两性","lastModified":1697427243,"icon":"https://imgcdn.nobook.com/chem/20210917/201910115d9fea43bdc53.png","url":"https://hx.nobook.com/console/templates/resource/361_aee8a6321ae5c261b02abd45e1dae483"}],
+              "title": "第二节 金属材料",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 536,
+          "title": "第四章 物质结构 元素周期律",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2573,"children":[{"type": "link","title": "原子的结构","lastModified":1706175542,"icon":"https://imgcdn.nobook.com/img/20220218/20220218620f47168cba9.png","url":"https://hx.nobook.com/console/templates/resource/2720_principle_AtomicStructure"},{"type": "link","title": "【拓展】轰击金箔实验","lastModified":1721284972,"icon":"https://imgcdn.nobook.com/img/20221201/2022120163881784eca7f.png","url":"https://hx.nobook.com/console/templates/resource/2962_44c18ac3565fea9dd5263084a88bf012"},{"type": "link","title": "【拓展】轰击金箔实验","lastModified":1721284972,"icon":"https://imgcdn.nobook.com/img/20221201/2022120163881784eca7f.png","url":"https://hx.nobook.com/console/templates/resource/2962_44c18ac3565fea9dd5263084a88bf012"},{"type": "link","title": "卤素单质间的置换反应","lastModified":1702021210,"icon":"https://imgcdn.nobook.com/chem/20210917/202008285f48c136e474d.png","url":"https://hx.nobook.com/console/templates/resource/2610_140707a6b6c95e658c231946843e23a4"},{"type": "link","title": "碱金属化学性质的比较","lastModified":1595401056,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f4606b2388a1.png","url":"https://hx.nobook.com/console/templates/resource/2519_37d8f665acaf24907e770aca362e70d7"}],
+              "title": "第一节 原子结构与元素周期表",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2574,"children":[{"type": "link","title": "非金属性验证实验","lastModified":1698978288,"icon":"https://imgcdn.nobook.com/img/20230822/2023082264e4597695472.png","url":"https://hx.nobook.com/console/templates/resource/3378_788c8fdd-3e39-4aa5-8a81-89a117dc096c"},{"type": "link","title": "卤化氢气体的检验","lastModified":1680231031,"icon":"https://imgcdn.nobook.com/img/20230321/202303216419a80213e87.png","url":"https://hx.nobook.com/console/templates/resource/2997_6d1f44fa-ed12-4275-9c5a-02b7c293ce36"},{"type": "link","title": "第三周期元素性质的递变","lastModified":1680230793,"icon":"https://imgcdn.nobook.com/img/20211210/2021121061b2cea09548f.png","url":"https://hx.nobook.com/console/templates/resource/2611_2d887b59f5c047b7e61f27923577fefa"}],
+              "title": "第二节 元素周期律",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2575,"children":[{"type": "link","title": "同周期同主族元素性质的递变","lastModified":1706164464,"icon":"https://imgcdn.nobook.com/img/20211210/2021121061b2b756e0cb2.png","url":"https://hx.nobook.com/console/templates/resource/2340_2f7bf0ac036d04630d67fca46aa8b5e0"}],
+              "title": "第三节 化学键",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "必修二",
+      "type": "folder",
+      "icon": "https://imgcdn.nobook.com/resource/textbook/3-2-12-131.jpg",
+      "children": [
+        {
+          "id": 550,
+          "title": "第五章 化工生产中的重要非金属元素",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2636,"children":[{"type": "link","title": "浓硫酸和铜反应","lastModified":1686902726,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460a29ed4f4.png","url":"https://hx.nobook.com/console/templates/resource/2581_b764f2a4a55c9e24f72f91bf524f702b"},{"type": "link","title": "高锰酸钾和浓硫酸的反应","lastModified":1702004765,"icon":"https://imgcdn.nobook.com/img/20220630/2022063062bd5ff9a6fa0.png","url":"https://u.nobook.com/short-link/rxn6vcli"},{"type": "link","title": "硫酸根离子的检验","lastModified":1706164396,"icon":"https://imgcdn.nobook.com/img/20220225/2022022562183e9d41834.png","url":"https://u.nobook.com/short-link/6mx4e4au"},{"type": "link","title": "二氧化硫的漂白作用","lastModified":1597730040,"icon":"https://imgcdn.nobook.com/img/20220225/2022022562183e36e5451.png","url":"https://hx.nobook.com/console/templates/resource/2580_cb0d6f9697b7479dd2e4be87df080438"},{"type": "link","title": "不同价态含硫物质的转化","lastModified":1706163039,"icon":"https://imgcdn.nobook.com/img/20220126/2022012661f1065a39c45.png","url":"https://u.nobook.com/short-link/db4jlhti"},{"type": "link","title": "浓硫酸脱水性之黑面包实验","lastModified":1697428390,"icon":"https://imgcdn.nobook.com/chem/20210917/edf73bae40c68f2bf474ef935f94075f.png","url":"https://u.nobook.com/short-link/578qpr7g"},{"type": "link","title": "二氧化硫溶于水","lastModified":1597730006,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f4609d323bc9.png","url":"https://hx.nobook.com/console/templates/resource/2579_3db668b858afe89c648f24329d4e919b"},{"type": "link","title": "二氧化硫使品红溶液褪色","lastModified":1680231519,"icon":"https://imgcdn.nobook.com/chem/20210917/03ad7893f7d5f3c21bd998cb2b3bf4af.png","url":"https://u.nobook.com/short-link/xrs648d4"},{"type": "link","title": "探究活动一","lastModified":1672300144,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad466ee539a.jpg","url":"https://hx.nobook.com/guidance/511"},{"type": "link","title": "探究活动一","lastModified":1672300144,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad466ee539a.jpg","url":"https://hx.nobook.com/guidance/511"}],
+              "title": "第一节 硫及其化合物",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2637,"children":[{"type": "link","title": "氨的催化氧化","lastModified":1693552909,"icon":"https://imgcdn.nobook.com/img/20230819/2023081964e028b2c4660.png","url":"https://u.nobook.com/short-link/99n7fwhp"},{"type": "link","title": "氨气与氧化铜反应","lastModified":1684227220,"icon":"https://imgcdn.nobook.com/img/20230426/202304266448fc8010a39.png","url":"https://u.nobook.com/short-link/dyeaykwn"},{"type": "link","title": "铜在硝酸盐溶液中的溶解","lastModified":1680231020,"icon":"https://imgcdn.nobook.com/img/20221209/202212096393092ee1c8b.png","url":"https://u.nobook.com/short-link/awuqyjyq"},{"type": "link","title": "氨气的检验","lastModified":1706161646,"icon":"https://imgcdn.nobook.com/img/20230207/2023020763e1c0204bde1.png","url":"https://u.nobook.com/short-link/tjxm4atb"},{"type": "link","title": "二氧化氮溶于水的实验","lastModified":1680231067,"icon":"https://imgcdn.nobook.com/img/20211208/2021120861b026da8d8c0.png","url":"https://u.nobook.com/short-link/bm5wubbo"},{"type": "link","title": "硝酸与铜反应","lastModified":1606115440,"icon":"https://imgcdn.nobook.com/img/20211129/2021112961a4be3e964ee.png","url":"https://hx.nobook.com/console/templates/resource/2635_543706a0b3d7e94e8a7457350cde3272"},{"type": "link","title": "铵根离子的检验","lastModified":1706164160,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46116bea017.png","url":"https://u.nobook.com/short-link/ahyneu9t"},{"type": "link","title": "喷泉实验","lastModified":1695123629,"icon":"https://imgcdn.nobook.com/chem/20210917/8a72f21f63b6bd635344210d11ec46e3.png","url":"https://u.nobook.com/short-link/qu92khek"},{"type": "link","title": "【课后作业】铵盐及氨气的制备","lastModified":1678354264,"icon":"https://imgcdn.nobook.com/img/20230307/202303076406b3a8a8899.jpg","url":"https://hx.nobook.com/guidance/43885"},{"type": "link","title": "【课中学案】铵盐及氨气的制备","lastModified":1678354289,"icon":"https://imgcdn.nobook.com/img/20230307/202303076406b397df3b3.jpg","url":"https://hx.nobook.com/guidance/43883"},{"type": "link","title": "实验室制备氨气","lastModified":1706161706,"icon":"https://imgcdn.nobook.com/chem/20210917/84d9fee127aeb57d92e786ba99dfd357.png","url":"https://u.nobook.com/short-link/maig5alk"},{"type": "link","title": "实验室制备氨气","lastModified":1706161706,"icon":"https://imgcdn.nobook.com/chem/20210917/84d9fee127aeb57d92e786ba99dfd357.png","url":"https://u.nobook.com/short-link/maig5alk"}],
+              "title": "第二节 氮及其化合物",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2638,"children":[{"type": "link","title": "氢氟酸蚀刻玻璃","lastModified":1702952950,"icon":"https://imgcdn.nobook.com/img/20231103/202311036544922b5e1fe.png","url":"https://u.nobook.com/short-link/gtlkc2et"},{"type": "link","title": "硅酸的制备实验","lastModified":1680231037,"icon":"https://imgcdn.nobook.com/img/20221111/20221111636e1ec6e0cf3.png","url":"https://u.nobook.com/short-link/5nu76jok"},{"type": "link","title": "【课后作业】硅酸的制备","lastModified":1678699380,"icon":"https://imgcdn.nobook.com/img/20230313/20230313640ee31ea3386.jpg","url":"https://hx.nobook.com/guidance/44607"},{"type": "link","title": "【课中学案】硅酸的制备","lastModified":1678699067,"icon":"https://imgcdn.nobook.com/img/20230313/20230313640ee2bdd1c34.jpg","url":"https://hx.nobook.com/guidance/44606"},{"type": "link","title": "足球烯","lastModified":1667552685,"icon":"https://imgcdn.nobook.com/img/20220907/20220907631861d0067c9.jpg","url":"https://hx.nobook.com/console/templates/resource/2930_organic__C₆₀"},{"type": "link","title": "足球烯","lastModified":1667552685,"icon":"https://imgcdn.nobook.com/img/20220907/20220907631861d0067c9.jpg","url":"https://hx.nobook.com/console/templates/resource/2930_organic__C₆₀"},{"type": "link","title": "石墨烯分子","lastModified":1706174662,"icon":"https://imgcdn.nobook.com/img/20220907/20220907631867a731e83.png","url":"https://hx.nobook.com/console/templates/resource/2931_organic__C"},{"type": "link","title": "石墨烯分子","lastModified":1706174662,"icon":"https://imgcdn.nobook.com/img/20220907/20220907631867a731e83.png","url":"https://hx.nobook.com/console/templates/resource/2931_organic__C"},{"type": "link","title": "用化学沉淀法去除粗盐中的杂质离子","lastModified":1738993972,"icon":"https://imgcdn.nobook.com/chem/20210917/201910085d9c54679c5ee.png","url":"https://u.nobook.com/short-link/3k32w6rh"}],
+              "title": "第三节 无机非金属材料",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 551,
+          "title": "第六章 化学反应与能量",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2639,"children":[{"type": "link","title": "锌铜原电池","lastModified":1689822704,"icon":"https://imgcdn.nobook.com/chem/20210917/202007175f114b8d80112.png","url":"https://u.nobook.com/short-link/pde1p3mp"},{"type": "link","title": "【趣味】滴水生烟","lastModified":1684153981,"icon":"https://imgcdn.nobook.com/img/20230207/2023020763e2086b60c44.jpg","url":"https://u.nobook.com/short-link/rnxeo6s8"},{"type": "link","title": "【课后作业】化学反应与电能","lastModified":1695630020,"icon":"https://imgcdn.nobook.com/img/20230329/20230329642406fe1d68d.png","url":"https://hx.nobook.com/guidance/46118"},{"type": "link","title": "【课中学案】化学反应与电能","lastModified":1680082499,"icon":"https://imgcdn.nobook.com/img/20230329/202303296423fdcb1ed09.png","url":"https://hx.nobook.com/guidance/46119"},{"type": "link","title": "锌铜原电池","lastModified":1689822704,"icon":"https://imgcdn.nobook.com/chem/20210917/202007175f114b8d80112.png","url":"https://u.nobook.com/short-link/pde1p3mp"},{"type": "link","title": "简易电池的设计与制作","lastModified":1706167233,"icon":"https://imgcdn.nobook.com/chem/20210917/202011245fbcd8b065a2b.png","url":"https://u.nobook.com/short-link/7b3ckdv9"},{"type": "link","title": "镁条与盐酸反应","lastModified":1706174212,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460bdc36f8c.png","url":"https://u.nobook.com/short-link/35qg5zdx"},{"type": "link","title": "八水合氢氧化钡与氯化铵的反应","lastModified":1744688226,"icon":"https://imgcdn.nobook.com/chem/20210917/26f1297d370005fa01aa8b068247ce18.png","url":"https://u.nobook.com/short-link/5cggbxzy"},{"type": "link","title": "暑期活动介绍","lastModified":1719906237,"icon":"https://imgcdn.nobook.com/img/20230626/2023062664995fc260192.jpg","url":"https://hx.nobook.com/guidance/51950"},{"type": "link","title": "DIY你的探究实验","lastModified":1719906505,"icon":"https://imgcdn.nobook.com/img/20230626/20230626649959a13c5a5.jpg","url":"https://hx.nobook.com/guidance/51942"},{"type": "link","title": "化学能转化为电能","lastModified":1754391932,"icon":"https://imgcdn.nobook.com/img/20220225/2022022562183c62722ff.png","url":"https://u.nobook.com/short-link/2np95fmq"},{"type": "link","title": "暑期活动介绍","lastModified":1719906237,"icon":"https://imgcdn.nobook.com/img/20230626/2023062664995fc260192.jpg","url":"https://hx.nobook.com/guidance/51950"},{"type": "link","title": "DIY你的探究实验","lastModified":1719906505,"icon":"https://imgcdn.nobook.com/img/20230626/20230626649959a13c5a5.jpg","url":"https://hx.nobook.com/guidance/51942"},{"type": "link","title": "化学能转化为电能","lastModified":1754391932,"icon":"https://imgcdn.nobook.com/img/20220225/2022022562183c62722ff.png","url":"https://u.nobook.com/short-link/2np95fmq"}],
+              "title": "第一节 化学反应与能量变化",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2640,"children":[{"type": "link","title": "模拟探究化学反应速率的影响因素","lastModified":1706165786,"icon":"https://imgcdn.nobook.com/img/20210927/2021092761512996c0602.png","url":"https://hx.nobook.com/console/templates/resource/2699_principle_ChemicalReactionRate"},{"type": "link","title": "模拟探究化学反应速率的影响因素","lastModified":1706165786,"icon":"https://imgcdn.nobook.com/img/20210927/2021092761512996c0602.png","url":"https://hx.nobook.com/console/templates/resource/2699_principle_ChemicalReactionRate"},{"type": "link","title": "影响化学反应速率的因素","lastModified":1706166817,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460c2343e45.png","url":"https://u.nobook.com/short-link/rj933pt3"},{"type": "link","title": "化学反应速率的影响因素","lastModified":1706165737,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460c508f0d4.png","url":"https://u.nobook.com/short-link/m5lv8bac"},{"type": "link","title": "温故：化学反应与能量","lastModified":1719906465,"icon":"https://imgcdn.nobook.com/img/20230626/202306266499592bb86d5.jpg","url":"https://hx.nobook.com/guidance/51703"},{"type": "link","title": "温故：化学反应与能量","lastModified":1719906465,"icon":"https://imgcdn.nobook.com/img/20230626/202306266499592bb86d5.jpg","url":"https://hx.nobook.com/guidance/51703"}],
+              "title": "第二节 化学反应的速率与限度",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 552,
+          "title": "第七章 有机化合物",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2641,"children":[{"type": "link","title": "甲烷与氯气的反应","lastModified":1682504692,"icon":"https://imgcdn.nobook.com/img/20230426/202304266448fbed5639f.png","url":"https://u.nobook.com/short-link/adg7j3ln"}],
+              "title": "第一节 认识有机化合物",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2642,"children":[{"type": "link","title": "实验室蒸馏石油","lastModified":1717138423,"icon":"https://imgcdn.nobook.com/img/20240416/20240416661e132929133.png","url":"https://u.nobook.com/short-link/sotobets"},{"type": "link","title": "乙烯的加成反应","lastModified":1706167721,"icon":"https://imgcdn.nobook.com/img/20220225/20220225621843ff66fce.png","url":"https://u.nobook.com/short-link/k13clg6q"},{"type": "link","title": "乙烯性质实验","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/img/20220127/2022012761f212cd79c3b.png","url":"https://u.nobook.com/short-link/hebgnjwc"},{"type": "link","title": "乙烯的氧化反应","lastModified":1706167733,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460c7c2d53c.png","url":"https://u.nobook.com/short-link/xwnhshyd"}],
+              "title": "第二节 乙烯与有机高分子材料",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2643,"children":[{"type": "link","title": "乙醇、乙酸的主要性质","lastModified":1706167516,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460cba8f52e.png","url":"https://u.nobook.com/short-link/fptuuct3"},{"type": "link","title": "探究乙酸的酸性","lastModified":1706167647,"icon":"https://imgcdn.nobook.com/chem/20210917/202105106098f9d866e66.png","url":"https://u.nobook.com/short-link/zb8z69fw"},{"type": "link","title": "乙酸和乙醇酯化反应","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/7e87c0901d40abb6c46e7bfafac4283c.png","url":"https://u.nobook.com/short-link/eo2h5cks"},{"type": "link","title": "乙醇的氧化反应","lastModified":1680231415,"icon":"https://imgcdn.nobook.com/chem/20210917/21faef9e10fa53d5e652c85d921f50af.png","url":"https://u.nobook.com/short-link/rqdsy1fi"},{"type": "link","title": "钠与乙醇的反应","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/7bfae4abb89f76f906f8be7fc6ada751.png","url":"https://u.nobook.com/short-link/h2vlcogv"},{"type": "link","title": "探究活动四","lastModified":1672300130,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad4660319f2.jpg","url":"https://hx.nobook.com/guidance/523"},{"type": "link","title": "探究活动四","lastModified":1672300130,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad4660319f2.jpg","url":"https://hx.nobook.com/guidance/523"}],
+              "title": "第三节 乙醇与乙酸",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2644,"children":[{"type": "link","title": "葡萄糖的性质","lastModified":1706175322,"icon":"https://imgcdn.nobook.com/chem/20210917/47821fef45c230e28e20237f6fc91302.png","url":"https://u.nobook.com/short-link/den7ngh1"},{"type": "link","title": "葡萄糖的性质","lastModified":1706175322,"icon":"https://imgcdn.nobook.com/chem/20210917/47821fef45c230e28e20237f6fc91302.png","url":"https://u.nobook.com/short-link/den7ngh1"},{"type": "link","title": "蛋白质的显色反应","lastModified":1706167838,"icon":"https://imgcdn.nobook.com/chem/20210917/0395e9f19dd6a8dbfe6462388ad8323d.png","url":"https://u.nobook.com/short-link/h6xq4zbj"},{"type": "link","title": "蛋白质的性质","lastModified":1753323627,"icon":"https://imgcdn.nobook.com/chem/20210917/202011245fbccc60c54b2.png","url":"https://u.nobook.com/short-link/8a2ng4so"},{"type": "link","title": "淀粉的性质","lastModified":1601371275,"icon":"https://imgcdn.nobook.com/chem/20210917/202010105f8111dbe3ec4.png","url":"https://u.nobook.com/short-link/k3un35v6"},{"type": "link","title": "葡萄糖的银镜反应","lastModified":1708668393,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfcbec6c584.png","url":"https://u.nobook.com/short-link/iviisizy"},{"type": "link","title": "葡萄糖的银镜反应","lastModified":1708668393,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfcbec6c584.png","url":"https://u.nobook.com/short-link/iviisizy"}],
+              "title": "第四节 基本营养物质",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 553,
+          "title": "第八章 化学与可持续发展",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2645,"children":[{"type": "link","title": "铝热反应","lastModified":1731468878,"icon":"https://imgcdn.nobook.com/chem/20210917/2714720d7dcc81fa539c9cd09d2190d5.png","url":"https://u.nobook.com/short-link/7xjm7a7d"},{"type": "link","title": "铝热反应组合","lastModified":1731468855,"icon":"https://imgcdn.nobook.com/chem/20210917/ef5e665fc38da16c6705f557187215b3.png","url":"https://u.nobook.com/short-link/rzyglmel"}],
+              "title": "第一节 自然资源的开发利用",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2646,"children":[{"type": "link","title": "高一第5天——来，来，你通个气体进来让我溶解吧","lastModified":1672302124,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aa9e13dca5b.jpg","url":"https://hx.nobook.com/guidance/36300"}],
+              "title": "第二节 化学品的合理使用",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2647,"children":[],
+              "title": "第三节 环境保护与绿色化学",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "选择性必修一",
+      "type": "folder",
+      "icon": "https://imgcdn.nobook.com/resource/textbook/3-2-12-141.jpg",
+      "children": [
+        {
+          "id": 569,
+          "title": "第一章 化学反应的热效应",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2714,"children":[{"type": "link","title": "中和反应反应热的测定","lastModified":1706167037,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfcd3cc8f78.png","url":"https://u.nobook.com/short-link/ywrugfqy"},{"type": "link","title": "知新：化学反应的热效应","lastModified":1719906445,"icon":"https://imgcdn.nobook.com/img/20230626/202306266499591825035.jpg","url":"https://hx.nobook.com/guidance/51704"},{"type": "link","title": "知新：化学反应的热效应","lastModified":1719906445,"icon":"https://imgcdn.nobook.com/img/20230626/202306266499591825035.jpg","url":"https://hx.nobook.com/guidance/51704"}],
+              "title": "第一节 反应热",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2715,"children":[],
+              "title": "第二节 反应热的计算",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 570,
+          "title": "第二章 化学反应速率与化学平衡",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2716,"children":[{"type": "link","title": "定性与定量研究影响化学反应速率的因素","lastModified":1706166792,"icon":"https://imgcdn.nobook.com/chem/20210917/202008275f47a5491afda.png","url":"https://u.nobook.com/short-link/slikjsgo"}],
+              "title": "第一节 化学反应速率",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2717,"children":[{"type": "link","title": "压强对化学平衡的影响","lastModified":1706168787,"icon":"https://imgcdn.nobook.com/img/20211230/2021123061cd20a7f1459.png","url":"https://u.nobook.com/short-link/df8kb5w5"},{"type": "link","title": "温度对化学平衡的影响","lastModified":1706168776,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f4606e97f33b.png","url":"https://u.nobook.com/short-link/qc5yn7gj"},{"type": "link","title": "浓度对化学平衡的影响","lastModified":1706168762,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f4606cc0c08d.png","url":"https://u.nobook.com/short-link/63uyjk24"},{"type": "link","title": "知新：化学平衡影响因素的探究","lastModified":1719906477,"icon":"https://imgcdn.nobook.com/img/20230626/202306266499593a47609.jpg","url":"https://hx.nobook.com/guidance/51700"},{"type": "link","title": "知新：化学平衡影响因素的探究","lastModified":1719906477,"icon":"https://imgcdn.nobook.com/img/20230626/202306266499593a47609.jpg","url":"https://hx.nobook.com/guidance/51700"}],
+              "title": "第二节 化学平衡",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2718,"children":[{"type": "link","title": "气体的自发扩散过程","lastModified":1684117468,"icon":"https://imgcdn.nobook.com/img/20230414/2023041464390b8f36acb.png","url":"https://u.nobook.com/short-link/r16hcyga"}],
+              "title": "第三节 化学反应的方向",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2719,"children":[{"type": "link","title": "探究影响化学平衡移动的因素","lastModified":1706168674,"icon":"https://imgcdn.nobook.com/chem/20210917/202008285f48d5bd8dc12.png","url":"https://u.nobook.com/short-link/8dtnkmon"}],
+              "title": "第四节 化学反应的调控",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 571,
+          "title": "第三章 水溶液中的离子反应与平衡",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2720,"children":[{"type": "link","title": "醋酸的电离平衡影响因素","lastModified":1706175575,"icon":"https://imgcdn.nobook.com/img/20210927/20210927615129aec5a86.png","url":"https://hx.nobook.com/console/templates/resource/2700_principle_IonizationEquilibrium"},{"type": "link","title": "强电解质和弱电解质","lastModified":1595407094,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46070a477de.png","url":"https://u.nobook.com/short-link/4cuvhr7d"},{"type": "link","title": "醋酸和碳酸钠溶液的反应","lastModified":1755482512,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46074367189.png","url":"https://u.nobook.com/short-link/o4j2iq5q"},{"type": "link","title": "高二第1天——咦，酸死了，牙都倒了","lastModified":1672302093,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aa9dfc9afaa.jpg","url":"https://hx.nobook.com/guidance/36285"}],
+              "title": "第一节 电离平衡",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2721,"children":[],
+              "title": "第二节 水的电离和溶液的pH",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2722,"children":[{"type": "link","title": "醋酸钠水解平衡的影响因素","lastModified":1706175567,"icon":"https://imgcdn.nobook.com/img/20210927/20210927615127d63c409.png","url":"https://hx.nobook.com/console/templates/resource/2701_principle_HydrolysisEquilibrium"},{"type": "link","title": "盐类水解的应用","lastModified":1680230666,"icon":"https://imgcdn.nobook.com/img/20220726/2022072662dfa9a1bb69e.png","url":"https://u.nobook.com/short-link/nl8vtbi6"},{"type": "link","title": "反应条件对氯化铁水解平衡的影响","lastModified":1706170669,"icon":"https://imgcdn.nobook.com/chem/20210917/202012045fc9efdc41a4e.png","url":"https://u.nobook.com/short-link/o4486cvf"},{"type": "link","title": "盐溶液的酸碱性","lastModified":1706170600,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46075dcfda7.png","url":"https://u.nobook.com/short-link/w312hzpn"}],
+              "title": "第三节 盐类的水解",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2723,"children":[{"type": "link","title": "氯化银沉淀溶解平衡的影响因素","lastModified":1706172030,"icon":"https://imgcdn.nobook.com/img/20210927/202109276151283069f65.png","url":"https://hx.nobook.com/console/templates/resource/2702_principle_PrecipitateSolEquilibrium"},{"type": "link","title": "沉淀的溶解","lastModified":1706171993,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f46077e1890a.png","url":"https://u.nobook.com/short-link/twtwbtcr"},{"type": "link","title": "强酸与强碱的中和滴定及其应用","lastModified":1706170129,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460eb0e4b92.png","url":"https://u.nobook.com/short-link/l6bc83n2"},{"type": "link","title": "氢氧化镁转化为氢氧化铁实验","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/e5d83c3b473760f1a08dfe531cd9fa8b.png","url":"https://u.nobook.com/short-link/1arhr75b"},{"type": "link","title": "氯化银沉淀转化的实验","lastModified":1706172021,"icon":"https://imgcdn.nobook.com/chem/20210917/f4eddd29e5084011ab8884ec817d40d2.png","url":"https://u.nobook.com/short-link/wpg117ed"},{"type": "link","title": "高二第2天——你以为你能把我沉淀的一点儿不剩么？","lastModified":1672302204,"icon":"https://imgcdn.nobook.com/img/20221227/2022122763aaabc149882.jpg","url":"https://hx.nobook.com/guidance/36590"}],
+              "title": "第四节 沉淀溶解平衡",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 572,
+          "title": "第四章 化学反应与电能",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2724,"children":[{"type": "link","title": "探究活动三","lastModified":1672300113,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad464f3bc33.jpg","url":"https://hx.nobook.com/guidance/515"},{"type": "link","title": "探究活动三","lastModified":1672300113,"icon":"https://imgcdn.nobook.com/img/20221229/2022122963ad464f3bc33.jpg","url":"https://hx.nobook.com/guidance/515"}],
+              "title": "第一节 原电池",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2725,"children":[{"type": "link","title": "熔融电解池","lastModified":1689822305,"icon":"https://imgcdn.nobook.com/img/20230612/202306126486fc5992080.png","url":"https://u.nobook.com/short-link/jhls43sh"},{"type": "link","title": "电解氯化铜溶液","lastModified":1706167927,"icon":"https://imgcdn.nobook.com/chem/20210917/202007175f11510ca1ee7.png","url":"https://u.nobook.com/short-link/k1etyqwb"}],
+              "title": "第二节 电解池",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2726,"children":[{"type": "link","title": "牺牲阳极法","lastModified":1689823421,"icon":"https://imgcdn.nobook.com/chem/20210917/202011245fbcd9de27692.png","url":"https://u.nobook.com/short-link/yqioayst"},{"type": "link","title": "金属的腐蚀","lastModified":1680230659,"icon":"https://imgcdn.nobook.com/chem/20210917/202011245fbcd09be5bec.png","url":"https://u.nobook.com/short-link/ik5tb575"},{"type": "link","title": "制作一个简单的燃料电池","lastModified":1706167378,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f4605d4631ab.png","url":"https://u.nobook.com/short-link/om6uodjb"},{"type": "link","title": "电镀铜","lastModified":1706167889,"icon":"https://imgcdn.nobook.com/chem/20210917/202007175f1152005a787.png","url":"https://u.nobook.com/short-link/u1keta4w"}],
+              "title": "第三节 金属的腐蚀与防护",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "选择性必修二",
+      "type": "folder",
+      "icon": "https://imgcdn.nobook.com/resource/textbook/3-2-12-142.jpg",
+      "children": [
+        {
+          "id": 578,
+          "title": "第一章 原子结构与性质",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2747,"children":[{"type": "link","title": "光谱管","lastModified":1733209028,"icon":"https://imgcdn.nobook.com/img/20240416/20240416661e172e52eca.png","url":"https://u.nobook.com/short-link/jxa2n8qn"},{"type": "link","title": "氢原子能级","lastModified":1718700364,"icon":"https://imgcdn.nobook.com/img/20240416/20240416661e16b3c415e.png","url":"https://u.nobook.com/short-link/9uxji4vl"},{"type": "link","title": "基态原子核外电子排布","lastModified":1706175463,"icon":"https://imgcdn.nobook.com/img/20211203/2021120361a98423d15a4.png","url":"https://hx.nobook.com/console/templates/resource/2716_principle_ExtranuclearElectron"},{"type": "link","title": "氢（H）","lastModified":1689564341,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4b374753.png","url":"https://hx.nobook.com/console/templates/resource/2341_atomCloud__H"},{"type": "link","title": "氦（He）","lastModified":1689564330,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4a7d2aae.png","url":"https://hx.nobook.com/console/templates/resource/2342_atomCloud__He"},{"type": "link","title": "锂（Li）","lastModified":1689564315,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b499ef036.png","url":"https://hx.nobook.com/console/templates/resource/2343_atomCloud__Li"},{"type": "link","title": "铍（Be）","lastModified":1689564303,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b48d61337.png","url":"https://hx.nobook.com/console/templates/resource/2344_atomCloud__Be"},{"type": "link","title": "硼（B）","lastModified":1689564292,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4823ab78.png","url":"https://hx.nobook.com/console/templates/resource/2345_atomCloud__B"},{"type": "link","title": "碳（C）","lastModified":1689564281,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b476d69f4.png","url":"https://hx.nobook.com/console/templates/resource/2346_atomCloud__C"},{"type": "link","title": "氮（N）","lastModified":1689564267,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b46850f51.png","url":"https://hx.nobook.com/console/templates/resource/2347_atomCloud__N"},{"type": "link","title": "氧（O）","lastModified":1689564251,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b45a1e435.png","url":"https://hx.nobook.com/console/templates/resource/2348_atomCloud__O"},{"type": "link","title": "氟（F）","lastModified":1689564243,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b450e8e97.png","url":"https://hx.nobook.com/console/templates/resource/2349_atomCloud__F"},{"type": "link","title": "氖（Ne）","lastModified":1689564227,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4420094c.png","url":"https://hx.nobook.com/console/templates/resource/2350_atomCloud__Ne"},{"type": "link","title": "钠（Na）","lastModified":1689564217,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4378f267.png","url":"https://hx.nobook.com/console/templates/resource/2351_atomCloud__Na"},{"type": "link","title": "镁（Mg）","lastModified":1689564205,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b42b32b20.png","url":"https://hx.nobook.com/console/templates/resource/2352_atomCloud__Mg"},{"type": "link","title": "铝（Al）","lastModified":1689564193,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b41e88902.png","url":"https://hx.nobook.com/console/templates/resource/2353_atomCloud__Al"},{"type": "link","title": "硅（Si）","lastModified":1689564181,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4133d93d.png","url":"https://hx.nobook.com/console/templates/resource/2354_atomCloud__Si"},{"type": "link","title": "磷（P）","lastModified":1689564171,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4091fbfb.png","url":"https://hx.nobook.com/console/templates/resource/2355_atomCloud__P"},{"type": "link","title": "硫（S）","lastModified":1689564076,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b3a96dd62.png","url":"https://hx.nobook.com/console/templates/resource/2356_atomCloud__S"},{"type": "link","title": "氯（Cl）","lastModified":1689564062,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b39b95277.png","url":"https://hx.nobook.com/console/templates/resource/2357_atomCloud__Cl"},{"type": "link","title": "氩（Ar）","lastModified":1689564048,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b38e07ed2.png","url":"https://hx.nobook.com/console/templates/resource/2358_atomCloud__Ar"},{"type": "link","title": "钾（K）","lastModified":1689564036,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b3823e2fc.png","url":"https://hx.nobook.com/console/templates/resource/2359_atomCloud__K"},{"type": "link","title": "钙（Ca）","lastModified":1689564018,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b36f328d0.png","url":"https://hx.nobook.com/console/templates/resource/2360_atomCloud__Ca"},{"type": "link","title": "钪（Sc）","lastModified":1689564006,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b3642d19e.png","url":"https://hx.nobook.com/console/templates/resource/2361_atomCloud__Sc"},{"type": "link","title": "钛（Ti）","lastModified":1689563994,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b3581ba62.png","url":"https://hx.nobook.com/console/templates/resource/2362_atomCloud__Ti"},{"type": "link","title": "钒（V）","lastModified":1689563980,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b34a4b0b5.png","url":"https://hx.nobook.com/console/templates/resource/2363_atomCloud__V"},{"type": "link","title": "铬（Cr）","lastModified":1689563967,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b33d79e11.png","url":"https://hx.nobook.com/console/templates/resource/2364_atomCloud__Cr"},{"type": "link","title": "锰（Mn）","lastModified":1689563955,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b3313f6ef.png","url":"https://hx.nobook.com/console/templates/resource/2365_atomCloud__Mn"},{"type": "link","title": "铁（Fe）","lastModified":1689563944,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b326b062b.png","url":"https://hx.nobook.com/console/templates/resource/2366_atomCloud__Fe"},{"type": "link","title": "钴（Co）","lastModified":1689563919,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b30c81e11.png","url":"https://hx.nobook.com/console/templates/resource/2382_atomCloud__Co"},{"type": "link","title": "镍（Ni）","lastModified":1689563905,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b2fee1945.png","url":"https://hx.nobook.com/console/templates/resource/2383_atomCloud__Ni"},{"type": "link","title": "铜（Cu）","lastModified":1689563895,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b2f4c206e.png","url":"https://hx.nobook.com/console/templates/resource/2384_atomCloud__Cu"},{"type": "link","title": "锌（Zn）","lastModified":1689563884,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b2e9b48d8.png","url":"https://hx.nobook.com/console/templates/resource/2385_atomCloud__Zn"},{"type": "link","title": "镓（Ga）","lastModified":1689563845,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b2c24f15e.png","url":"https://hx.nobook.com/console/templates/resource/2707_atomCloud__Ga"},{"type": "link","title": "锗（Ge）","lastModified":1689563824,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b2acc3c77.png","url":"https://hx.nobook.com/console/templates/resource/2708_atomCloud__Ge"},{"type": "link","title": "砷（As）","lastModified":1689563808,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b29d15865.png","url":"https://hx.nobook.com/console/templates/resource/2709_atomCloud__As"},{"type": "link","title": "硒（Se）","lastModified":1689563795,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b290a5870.png","url":"https://hx.nobook.com/console/templates/resource/2710_atomCloud__Se"},{"type": "link","title": "溴（Br）","lastModified":1689563781,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b28233f01.png","url":"https://hx.nobook.com/console/templates/resource/2711_atomCloud__Br"},{"type": "link","title": "氪（Kr）","lastModified":1689563761,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b26bc5fbb.png","url":"https://hx.nobook.com/console/templates/resource/2712_atomCloud__Kr"}],
+              "title": "第一节 原子结构",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2748,"children":[],
+              "title": "第二节 原子结构与元素的性质",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 579,
+          "title": "第二章 分子结构与性质",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2749,"children":[{"type": "link","title": "杂化轨道理论","lastModified":1706174725,"icon":"https://imgcdn.nobook.com/img/20220926/202209266331134aa72d2.jpg","url":"https://hx.nobook.com/console/templates/resource/2942_principle_HybridOrbital"},{"type": "link","title": "杂化轨道理论","lastModified":1706174725,"icon":"https://imgcdn.nobook.com/img/20220926/202209266331134aa72d2.jpg","url":"https://hx.nobook.com/console/templates/resource/2942_principle_HybridOrbital"},{"type": "link","title": "共价键的形成","lastModified":1689564396,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4e34bd13.png","url":"https://hx.nobook.com/console/templates/resource/2317_bonding__"},{"type": "link","title": "单键、双键、三键的形成","lastModified":1689564377,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4d0ce811.png","url":"https://hx.nobook.com/console/templates/resource/2318_bonding1__"},{"type": "link","title": "高二第3天——你咋知道这分子是三角锥还是平面三角形的？","lastModified":1672302221,"icon":"https://imgcdn.nobook.com/img/20221228/2022122863abac5401f3c.jpg","url":"https://hx.nobook.com/guidance/36722"}],
+              "title": "第一节 共价键",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2750,"children":[{"type": "link","title": "一氧化碳（CO）","lastModified":1675239029,"icon":"https://imgcdn.nobook.com/img/20230201/2023020163da1e719e92d.jpg","url":"https://hx.nobook.com/console/templates/resource/3082_organic__CO"},{"type": "link","title": "s和p轨道的杂化","lastModified":1689564354,"icon":"https://imgcdn.nobook.com/img/20230717/2023071764b4b4c0546bd.png","url":"https://hx.nobook.com/console/templates/resource/2319_sp__"},{"type": "link","title": "过氧化氢分子(H₂O₂)","lastModified":1672974878,"icon":"https://imgcdn.nobook.com/img/20230106/2023010663b791f481565.png","url":"https://hx.nobook.com/console/templates/resource/3078_organic__H₂O₂"},{"type": "link","title": "三氧化硫分子(SO₃)","lastModified":1672974744,"icon":"https://imgcdn.nobook.com/img/20230106/2023010663b79167e145e.png","url":"https://hx.nobook.com/console/templates/resource/3077_organic__SO₃"},{"type": "link","title": "臭氧","lastModified":1668494120,"icon":"https://imgcdn.nobook.com/img/20221115/20221115637332fd70227.jpg","url":"https://hx.nobook.com/console/templates/resource/2984_organic__O₃"},{"type": "link","title": "二氧化硫","lastModified":1668494059,"icon":"https://imgcdn.nobook.com/img/20221115/20221115637332e72ca57.jpg","url":"https://hx.nobook.com/console/templates/resource/2983_organic__SO₂"},{"type": "link","title": "氢气（H₂）","lastModified":1564107913,"icon":"https://imgcdn.nobook.com/chem/20210917/201907265d3a64c5967c8.jpg","url":"https://hx.nobook.com/console/templates/resource/2368_organic__H₂"},{"type": "link","title": "氯气（Cl₂）","lastModified":1679301934,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181d213cda1.png","url":"https://hx.nobook.com/console/templates/resource/2369_organic__Cl₂"},{"type": "link","title": "氮气（N₂）","lastModified":1679302735,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064182049dcf39.png","url":"https://hx.nobook.com/console/templates/resource/2371_organic__N₂"},{"type": "link","title": "氯化氢（HCl）","lastModified":1679301980,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181d5324b58.png","url":"https://hx.nobook.com/console/templates/resource/2370_organic__HCl"},{"type": "link","title": "氧气（O₂）","lastModified":1679302082,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181dba07e20.png","url":"https://hx.nobook.com/console/templates/resource/2374_organic__O₂"},{"type": "link","title": "水（H₂O）","lastModified":1679302053,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181d9b22c22.png","url":"https://hx.nobook.com/console/templates/resource/2373_organic__H₂O"},{"type": "link","title": "氨气（NH₃）","lastModified":1679302206,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181e36e59fd.png","url":"https://hx.nobook.com/console/templates/resource/2375_organic__NH₃"},{"type": "link","title": "硫化氢（H₂S）","lastModified":1679302597,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181fbeaee4e.png","url":"https://hx.nobook.com/console/templates/resource/2378_organic__H₂S"},{"type": "link","title": "亚硫酸根离子（SO₃²⁻）","lastModified":1679302634,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181fe400cac.png","url":"https://hx.nobook.com/console/templates/resource/2381_organic__SO₃²⁻"},{"type": "link","title": "磷酸根离子（PO₄³⁻）","lastModified":1679302656,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181ffa3d4e8.png","url":"https://hx.nobook.com/console/templates/resource/2380_organic__PO₄³⁻"},{"type": "link","title": "硫酸根离子（SO₄²⁻）","lastModified":1679302620,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181fd66d535.png","url":"https://hx.nobook.com/console/templates/resource/2379_organic__SO₄²⁻"},{"type": "link","title": "二氧化碳（CO₂）","lastModified":1679302825,"icon":"https://imgcdn.nobook.com/img/20230320/202303206418209f2a9c8.png","url":"https://hx.nobook.com/console/templates/resource/2372_organic__CO₂"},{"type": "link","title": "三氟化硼（BF₃）","lastModified":1679302528,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181f7793085.png","url":"https://hx.nobook.com/console/templates/resource/2376_organic__BF₃"},{"type": "link","title": "氰化氢（HCN）","lastModified":1679302574,"icon":"https://imgcdn.nobook.com/img/20230320/2023032064181fa750397.png","url":"https://hx.nobook.com/console/templates/resource/2377_organic__HCN"},{"type": "link","title": "白磷","lastModified":1665394177,"icon":"https://imgcdn.nobook.com/img/20221010/202210106343e5da60021.png","url":"https://hx.nobook.com/console/templates/resource/2956_organic__P₄"},{"type": "link","title": "斜方硫（α-硫）","lastModified":1665394117,"icon":"https://imgcdn.nobook.com/img/20221010/202210106343e5c2ea445.png","url":"https://hx.nobook.com/console/templates/resource/2955_organic__S₈"},{"type": "link","title": "甲烷（CH₄）","lastModified":1567151725,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d72ad1bef.jpg","url":"https://hx.nobook.com/console/templates/resource/2403_organic__CH₄"},{"type": "link","title": "乙烷（C₂H₆）","lastModified":1567151801,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d7716dc8f.jpg","url":"https://hx.nobook.com/console/templates/resource/2404_organic__C₂H₆"},{"type": "link","title": "乙烯（C₂H₄）","lastModified":1564107797,"icon":"https://imgcdn.nobook.com/chem/20210917/201907265d3a644a1cb0c.jpg","url":"https://hx.nobook.com/console/templates/resource/2367_organic__C₂H₄"},{"type": "link","title": "苯（C₆H₆）","lastModified":1680574880,"icon":"https://imgcdn.nobook.com/img/20210928/202109286152f2a63a069.png","url":"https://hx.nobook.com/console/templates/resource/2388_organic__C₆H₆"},{"type": "link","title": "乙醛（CH₃CHO）","lastModified":1664346532,"icon":"https://imgcdn.nobook.com/img/20211028/20211028617a1334adde8.png","url":"https://hx.nobook.com/console/templates/resource/2714_organic__CH₃CHO"},{"type": "link","title": "六方硫化锌","lastModified":1665394234,"icon":"https://imgcdn.nobook.com/img/20221010/202210106343e61540339.png","url":"https://hx.nobook.com/console/templates/resource/2957_jingti__ZnS"}],
+              "title": "第二节 分子的空间结构",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2751,"children":[{"type": "link","title": "丙烷（C₃H₈）","lastModified":1567151834,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d79a37dbb.jpg","url":"https://hx.nobook.com/console/templates/resource/2405_organic__C₃H₈"},{"type": "link","title": "丙烯（C₃H₆）","lastModified":1567151870,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d7ae814a5.jpg","url":"https://hx.nobook.com/console/templates/resource/2406_organic__C₃H₆"},{"type": "link","title": "乙炔（C₂H₂）","lastModified":1567151898,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d7c12af81.jpg","url":"https://hx.nobook.com/console/templates/resource/2407_organic__C₂H₂"},{"type": "link","title": "溴乙烷（C₂H₅Br）","lastModified":1567152092,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d7f68eb6f.jpg","url":"https://hx.nobook.com/console/templates/resource/2408_organic__C₂H₅Br"},{"type": "link","title": "乙醇（C₂H₅OH）","lastModified":1567152138,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d8200980a.jpg","url":"https://hx.nobook.com/console/templates/resource/2409_organic__C₂H₅OH"},{"type": "link","title": "苯酚（C₆H₅OH）","lastModified":1568855677,"icon":"https://imgcdn.nobook.com/img/20210928/202109286152f2caaa358.png","url":"https://hx.nobook.com/console/templates/resource/2453_organic__C₆H₅OH"},{"type": "link","title": "甲醛（HCHO）","lastModified":1635390040,"icon":"https://imgcdn.nobook.com/img/20211028/20211028617a126fa17aa.png","url":"https://hx.nobook.com/console/templates/resource/2713_organic__HCHO"},{"type": "link","title": "乙酸（CH₃COOH）","lastModified":1568855824,"icon":"https://imgcdn.nobook.com/chem/20210917/201909195d82d72748bbe.png","url":"https://hx.nobook.com/console/templates/resource/2454_organic__CH₃COOH"},{"type": "link","title": "乙酸乙酯（CH₃COOCH₂CH₃）","lastModified":1568855917,"icon":"https://imgcdn.nobook.com/chem/20210917/201909195d82d776d24f7.png","url":"https://hx.nobook.com/console/templates/resource/2455_organic__CH₃COOC₂H₅"}],
+              "title": "第三节 分子结构与物质的性质",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 580,
+          "title": "第三章 晶体结构与性质",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2752,"children":[{"type": "link","title": "非晶体二氧化硅","lastModified":1556071663,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc529a76cc.jpg","url":"https://hx.nobook.com/console/templates/resource/2109_jingti__NonSiO2"},{"type": "link","title": "石墨","lastModified":1706174672,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfcaf5e08df.jpg","url":"https://hx.nobook.com/console/templates/resource/2122_jingti__C_G"}],
+              "title": "第一节 物质的聚集状态与晶体的常识",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2753,"children":[{"type": "link","title": "碳60晶体","lastModified":1662606144,"icon":"https://imgcdn.nobook.com/img/20220907/202209076318659d33bd9.png","url":"https://hx.nobook.com/console/templates/resource/2120_jingti__C60"},{"type": "link","title": "晶体二氧化硅","lastModified":1556071406,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc4829acac.jpg","url":"https://hx.nobook.com/console/templates/resource/2108_jingti__SiO2"},{"type": "link","title": "干冰晶胞","lastModified":1556071913,"icon":"https://imgcdn.nobook.com/chem/20210917/201907105d25a07b719c1.png","url":"https://hx.nobook.com/console/templates/resource/2110_jingti__DryIce"},{"type": "link","title": "碘","lastModified":1556072666,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfca088fbf2.jpg","url":"https://hx.nobook.com/console/templates/resource/2117_jingti__I2"},{"type": "link","title": "金刚石","lastModified":1706174648,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfca3d0314b.jpg","url":"https://hx.nobook.com/console/templates/resource/2118_jingti__C_D"},{"type": "link","title": "氧气","lastModified":1556073057,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfca70e9a41.jpg","url":"https://hx.nobook.com/console/templates/resource/2119_jingti__O"},{"type": "link","title": "冰","lastModified":1556073149,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfcac9b047e.jpg","url":"https://hx.nobook.com/console/templates/resource/2121_jingti__Ice"}],
+              "title": "第二节 分子晶体与共价晶体",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2754,"children":[{"type": "link","title": "磷化硼","lastModified":1632827635,"icon":"https://imgcdn.nobook.com/img/20210928/202109286152f936f0cf8.png","url":"https://hx.nobook.com/console/templates/resource/2703_jingti__BP"},{"type": "link","title": "镁","lastModified":1706174336,"icon":"https://imgcdn.nobook.com/img/20210928/202109286152fa6d627f8.png","url":"https://hx.nobook.com/console/templates/resource/2705_jingti__Mg"},{"type": "link","title": "氯化钙","lastModified":1632827818,"icon":"https://imgcdn.nobook.com/img/20210928/202109286152f9d96236e.png","url":"https://hx.nobook.com/console/templates/resource/2704_jingti__CaCl2"},{"type": "link","title": "氯化钠","lastModified":1706174483,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc69e2109f.jpg","url":"https://hx.nobook.com/console/templates/resource/2111_jingti__NaCl"},{"type": "link","title": "氯化铯","lastModified":1706174507,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc714d5a1a.jpg","url":"https://hx.nobook.com/console/templates/resource/2112_jingti__CsCl"},{"type": "link","title": "氟化钙","lastModified":1706174547,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc74c23727.jpg","url":"https://hx.nobook.com/console/templates/resource/2113_jingti__CaF2"},{"type": "link","title": "碳酸钙（霰石）","lastModified":1556072303,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc77eb2e40.jpg","url":"https://hx.nobook.com/console/templates/resource/2114_jingti__CaCO3"},{"type": "link","title": "铜","lastModified":1706174304,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc88026dbc.jpg","url":"https://hx.nobook.com/console/templates/resource/2115_jingti__Cu"},{"type": "link","title": "锌","lastModified":1706174319,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfc8af3efdc.jpg","url":"https://hx.nobook.com/console/templates/resource/2116_jingti__Zn"},{"type": "link","title": "钋","lastModified":1556073231,"icon":"https://imgcdn.nobook.com/chem/20210917/201904245cbfcb23b458b.jpg","url":"https://hx.nobook.com/console/templates/resource/2123_jingti__Po"},{"type": "link","title": "氧化锂晶体（Li₂O）","lastModified":1564483693,"icon":"https://imgcdn.nobook.com/chem/20210917/201907305d402074da472.jpg","url":"https://hx.nobook.com/console/templates/resource/2386_jingti__Li2O"},{"type": "link","title": "氧化镁晶体（MgO）","lastModified":1564483889,"icon":"https://imgcdn.nobook.com/chem/20210917/201907305d40214626e13.jpg","url":"https://hx.nobook.com/console/templates/resource/2387_jingti__MgO"},{"type": "link","title": "K₃C₆₀晶体","lastModified":1567133795,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68b271cffc4.jpg","url":"https://hx.nobook.com/console/templates/resource/2391_jingti__K3C60"},{"type": "link","title": "钠晶体（Na）","lastModified":1567150841,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d30f6b487.jpg","url":"https://hx.nobook.com/console/templates/resource/2397_jingti__Na"},{"type": "link","title": "碘酸钾（KIO₃）","lastModified":1706174575,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d3c88a77a.jpg","url":"https://hx.nobook.com/console/templates/resource/2398_jingti__KIO3"},{"type": "link","title": "MgCu₂晶体","lastModified":1567151218,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d47d3be0c.jpg","url":"https://hx.nobook.com/console/templates/resource/2400_jingti__MgCu2"},{"type": "link","title": "SmFeAsOₓF₁₋ₓ晶体","lastModified":1567151566,"icon":"https://imgcdn.nobook.com/chem/20210917/201908305d68d5e20ec59.jpg","url":"https://hx.nobook.com/console/templates/resource/2402_jingti__SmFeAsO"},{"type": "link","title": "二硫化亚铁（FeS₂）","lastModified":1568856025,"icon":"https://imgcdn.nobook.com/chem/20210917/201909195d82d8056e546.png","url":"https://hx.nobook.com/console/templates/resource/2456_jingti__FeS2"},{"type": "link","title": "氧化钙（CaO）","lastModified":1568856154,"icon":"https://imgcdn.nobook.com/chem/20210917/201909195d82d862d2717.png","url":"https://hx.nobook.com/console/templates/resource/2457_jingti__CaO"},{"type": "link","title": "储氢镧镍合金","lastModified":1634030800,"icon":"https://imgcdn.nobook.com/img/20211012/202110126165552c3fc3f.png","url":"https://hx.nobook.com/console/templates/resource/2706_jingti__LaNi5H6"}],
+              "title": "第三节 金属晶体与离子晶体",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2755,"children":[{"type": "link","title": "铜离子的络合物","lastModified":1699931604,"icon":"https://imgcdn.nobook.com/img/20231114/202311146552e5d074cff.png","url":"https://u.nobook.com/short-link/6andqmt3"},{"type": "link","title": "几种固体及其溶液的颜色","lastModified":1609136417,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960065013eff43.png","url":"https://u.nobook.com/short-link/4fp3o66q"},{"type": "link","title": "向硫酸铜溶液中加入氨水和乙醇","lastModified":1680230614,"icon":"https://imgcdn.nobook.com/chem/20210917/202101065ff52205b13ce.png","url":"https://u.nobook.com/short-link/vg3prnwz"},{"type": "link","title": "简单配合物的形成","lastModified":1706174253,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064fdd583fb.png","url":"https://u.nobook.com/short-link/pv78ou1k"},{"type": "link","title": "硫氰化铁配离子","lastModified":1680230860,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460ce6cfb9d.png","url":"https://u.nobook.com/short-link/b3cj6rei"},{"type": "link","title": "二氨合银离子","lastModified":1680230853,"icon":"https://imgcdn.nobook.com/chem/20210917/202008265f460d01d1085.png","url":"https://u.nobook.com/short-link/wzoakkag"}],
+              "title": "第四节 配合物与超分子",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "title": "选择性必修三",
+      "type": "folder",
+      "icon": " https://imgcdn.nobook.com/resource/textbook/3-2-12-149.jpg",
+      "children": [
+        {
+          "id": 596,
+          "title": "第一章 有机化合物的结构特点与研究方法   ",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2756,"children":[{"type": "link","title": "比较钠与乙醇或水的反应","lastModified":1680230875,"icon":"https://imgcdn.nobook.com/img/20220225/20220225621875fab81a0.png","url":"https://u.nobook.com/short-link/1u67i78r"}],
+              "title": "第一节 有机化合物的结构特点   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2757,"children":[{"type": "link","title": "苯甲酸的重结晶","lastModified":1679304396,"icon":"https://imgcdn.nobook.com/chem/20210917/5434771a2c1a2cb17a0aeb553da7a913.png","url":"https://u.nobook.com/short-link/os33z1l2"}],
+              "title": "第二节 研究有机化合物的一般方法 ",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 597,
+          "title": "第二章 烃   ",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2758,"children":[],
+              "title": "第一节 烷烃   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2759,"children":[{"type": "link","title": "乙炔的实验室制法","lastModified":1706174860,"icon":"https://imgcdn.nobook.com/chem/20210917/978ce0427a447704b0fad36416dc24ea.png","url":"https://u.nobook.com/short-link/mg1tum6n"},{"type": "link","title": "高二第4天——三昧真火的秘密","lastModified":1672302233,"icon":"https://imgcdn.nobook.com/img/20221228/2022122863abacea21494.jpg","url":"https://hx.nobook.com/guidance/36723"}],
+              "title": "第二节 烯烃 炔烃   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2760,"children":[{"type": "link","title": "利用三颈烧瓶制备硝基苯","lastModified":1706175045,"icon":"https://imgcdn.nobook.com/img/20220615/2022061562a9b8e8a246d.png","url":"https://u.nobook.com/short-link/xm7bz6bn"},{"type": "link","title": "实验室制溴苯","lastModified":1706175056,"icon":"https://imgcdn.nobook.com/img/20220630/2022063062bd605b45da2.png","url":"https://u.nobook.com/short-link/2b4kz87n"},{"type": "link","title": "苯的同系物的性质","lastModified":1706174924,"icon":"https://imgcdn.nobook.com/chem/20210917/7412915488e46a1616b2432b671a0d85.png","url":"https://u.nobook.com/short-link/mqypf2s4"},{"type": "link","title": "硝基苯的制备","lastModified":1680231108,"icon":"https://imgcdn.nobook.com/chem/20210917/201907195d3154d191ee7.png","url":"https://u.nobook.com/short-link/d4ga94y5"},{"type": "link","title": "溴苯的制备","lastModified":1722330879,"icon":"https://imgcdn.nobook.com/chem/20210917/b0ef59f79200710be35437273dfb8d4b.png","url":"https://u.nobook.com/short-link/f43u85zg"},{"type": "link","title": "溴水和酸性高锰酸钾溶液加入苯中的观察实验","lastModified":1531276119,"icon":"https://imgcdn.nobook.com/chem/20210917/b74c685193491554455723cc9e1af908.png","url":"https://u.nobook.com/short-link/mmst8hy7"}],
+              "title": "第三节 芳香烃",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 598,
+          "title": "第三章 烃的衍生物   ",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2761,"children":[{"type": "link","title": "1-溴丁烷的化学性质","lastModified":1679303676,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064fb72c58c.png","url":"https://u.nobook.com/short-link/8xkrsn1b"},{"type": "link","title": "溴乙烷的消去反应","lastModified":1722929435,"icon":"https://imgcdn.nobook.com/img/20230426/202304266449036f8ec9b.png","url":"https://u.nobook.com/short-link/b49gajjk"},{"type": "link","title": "溴乙烷的取代反应","lastModified":1722929494,"icon":"https://imgcdn.nobook.com/chem/20210917/201907195d31553391b59.png","url":"https://u.nobook.com/short-link/k2iytowq"}],
+              "title": "第一节 卤代烃   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2762,"children":[{"type": "link","title": "乙醇的消去反应","lastModified":1706175166,"icon":"https://imgcdn.nobook.com/chem/20210917/9079817fb503d97ad0e28ee77c8a3871.png","url":"https://u.nobook.com/short-link/3u982qpv"},{"type": "link","title": "苯酚的物理性质","lastModified":1706175207,"icon":"https://imgcdn.nobook.com/img/20230615/20230615648b05c1c8553.png","url":"https://u.nobook.com/short-link/2vuogboz"},{"type": "link","title": "苯酚的酸性","lastModified":1680230621,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064f8a1c51c.png","url":"https://u.nobook.com/short-link/3hcnfp3o"},{"type": "link","title": "苯酚的显色反应","lastModified":1706175240,"icon":"https://imgcdn.nobook.com/chem/20210917/201907235d36a80a82a22.png","url":"https://u.nobook.com/short-link/mmose2m8"},{"type": "link","title": "苯酚与溴水的反应","lastModified":1563863409,"icon":"https://imgcdn.nobook.com/chem/20210917/201907235d36a98389961.png","url":"https://u.nobook.com/short-link/a9wcsx58"},{"type": "link","title": "乙醇与重铬酸钾酸性溶液的反应","lastModified":1562147483,"icon":"https://imgcdn.nobook.com/chem/20210917/201907035d1c7ab50ae3e.png","url":"https://u.nobook.com/short-link/q5qt4giw"},{"type": "link","title": "高二第5天——石炭酸，你别“装醇”，也别“装酸”","lastModified":1672717704,"icon":"https://imgcdn.nobook.com/img/20221228/2022122863abad4245c68.jpg","url":"https://hx.nobook.com/guidance/36724"}],
+              "title": "第二节 醇 酚   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2763,"children":[{"type": "link","title": "乙醛的银镜反应","lastModified":1706174959,"icon":"https://imgcdn.nobook.com/img/20220817/2022081762fca785be9cc.png","url":"https://u.nobook.com/short-link/bg3wbrlc"},{"type": "link","title": "碘仿反应","lastModified":1680230442,"icon":"https://imgcdn.nobook.com/img/20220728/2022072862e26d0f4eff0.png","url":"https://u.nobook.com/short-link/y9hflhll"},{"type": "link","title": "乙醛与新制氢氧化铜的反应","lastModified":1706174970,"icon":"https://imgcdn.nobook.com/chem/20210917/201907045d1da2a02dbef.png","url":"https://u.nobook.com/short-link/atzt7vt8"}],
+              "title": "第三节 醛 酮   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2764,"children":[{"type": "link","title": "羧酸的酸性","lastModified":1669032044,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064f669bef8.png","url":"https://u.nobook.com/short-link/w925rryq"},{"type": "link","title": "乙酸乙酯的水解","lastModified":1680230603,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064f39be00f.png","url":"https://u.nobook.com/short-link/4aqov2tt"}],
+              "title": "第四节 羧酸 羧酸衍生物   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2765,"children":[{"type": "link","title": "乙酸乙酯的制备与性质","lastModified":1706167759,"icon":"https://imgcdn.nobook.com/chem/20210917/2021062260d1b8b0c5303.png","url":"https://u.nobook.com/short-link/cqt1bgab"},{"type": "link","title": "有机化合物中常见官能团的检验","lastModified":1706174801,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064eb40d30c.png","url":"https://u.nobook.com/short-link/5ccmbyf3"},{"type": "link","title": "【课中学案】经典有机实验","lastModified":1685953267,"icon":"https://imgcdn.nobook.com/img/20230605/20230605647d83f88b7eb.png","url":"https://hx.nobook.com/guidance/50701"},{"type": "link","title": "【课后作业】经典有机实验","lastModified":1685953248,"icon":"https://imgcdn.nobook.com/img/20230605/20230605647d9425be80d.png","url":"https://hx.nobook.com/guidance/50714"},{"type": "link","title": "【课中学案】经典有机实验","lastModified":1685953267,"icon":"https://imgcdn.nobook.com/img/20230605/20230605647d83f88b7eb.png","url":"https://hx.nobook.com/guidance/50701"},{"type": "link","title": "【课后作业】经典有机实验","lastModified":1685953248,"icon":"https://imgcdn.nobook.com/img/20230605/20230605647d9425be80d.png","url":"https://hx.nobook.com/guidance/50714"}],
+              "title": "第五节 有机合成 ",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 599,
+          "title": "第四章 生物大分子   ",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2766,"children":[{"type": "link","title": "糖类的还原性","lastModified":1609136786,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064c2f354a5.png","url":"https://u.nobook.com/short-link/is6t9a9s"},{"type": "link","title": "纤维素的性质","lastModified":1722308577,"icon":"https://imgcdn.nobook.com/chem/20210917/202101065ff5218f65c8f.png","url":"https://u.nobook.com/short-link/hurdt6fc"},{"type": "link","title": "糖类的性质","lastModified":1706175300,"icon":"https://imgcdn.nobook.com/chem/20210917/202101065ff51ee5ea588.png","url":"https://u.nobook.com/short-link/zjqa8hrr"}],
+              "title": "第一节 糖类   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2767,"children":[{"type": "link","title": "蛋白质的变性","lastModified":1706167811,"icon":"https://imgcdn.nobook.com/chem/20210917/202101065ff51e47abe6b.png","url":"https://u.nobook.com/short-link/muxz8kha"},{"type": "link","title": "蛋白质的盐析","lastModified":1680230568,"icon":"https://imgcdn.nobook.com/chem/20210917/202101065ff51e88ca787.png","url":"https://u.nobook.com/short-link/5bsaqyxz"}],
+              "title": "第二节 蛋白质   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2768,"children":[],
+              "title": "第三节 核酸",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        },
+        {
+          "id": 600,
+          "title": "第五章 合成高分子",
+          "icon": "",
+          "type": "folder",
+          "children": [
+            {
+              "id": 2769,"children":[{"type": "link","title": "【课中学案】有机物的性质与转化","lastModified":1684139042,"icon":"https://imgcdn.nobook.com/img/20230515/202305156461d8fcb242c.png","url":"https://hx.nobook.com/guidance/49341"},{"type": "link","title": "【课后习题】有机物的性质与转化","lastModified":1685953174,"icon":"https://imgcdn.nobook.com/img/20230515/202305156461d941dea5f.png","url":"https://hx.nobook.com/guidance/49342"}],
+              "title": "第一节 合成高分子的基本方法   ",
+              "icon": "",
+              "type": "folder"
+            },
+            {
+              "id": 2770,"children":[{"type": "link","title": "高吸水性树脂的吸水性能","lastModified":1706167859,"icon":"https://imgcdn.nobook.com/img/20231031/2023103165406d6516fca.png","url":"https://u.nobook.com/short-link/5u2vmey4"},{"type": "link","title": "酚醛树脂","lastModified":1706175371,"icon":"https://imgcdn.nobook.com/chem/20210917/2021011960064bf48c0eb.png","url":"https://u.nobook.com/short-link/qib39dp3"}],
+              "title": "第二节 高分子材料 ",
+              "icon": "",
+              "type": "folder"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+]
